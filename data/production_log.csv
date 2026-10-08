@@ -1,0 +1,3681 @@
+date,product_name,units_produced,units_wasted_recorded
+2026-03-01,Agege Bread,52,6.0
+2026-03-01,Sliced Sandwich Bread,33,6.0
+2026-03-01,Coconut Bread,24,11.0
+2026-03-01,Meat Pie,68,18.0
+2026-03-01,Chicken Pie,49,14.0
+2026-03-01,Sausage Roll,44,
+2026-03-01,Doughnut,50,11.0
+2026-03-01,Egg Roll,25,5.0
+2026-03-01,Fish Roll,30,
+2026-03-01,Puff Puff Pack,26,
+2026-03-01,Chin Chin Pack,24,0.0
+2026-03-01,Birthday Cake 8in,1,0.0
+2026-03-01,Cream Cake Slice,26,
+2026-03-01,Cupcake,49,8.0
+2026-03-01,Banana Cake Loaf,12,
+2026-03-01,Red Velvet Slice,17,5.0
+2026-03-01,Zobo Bottle,28,2.0
+2026-03-01,Fresh Yoghurt Bottle,22,3.0
+2026-03-01,Bottled Water,52,0.0
+2026-03-01,Soft Drink,51,0.0
+2026-03-02,Agege Bread,62,15.0
+2026-03-02,Sliced Sandwich Bread,44,
+2026-03-02,Coconut Bread,34,6.0
+2026-03-02,Meat Pie,54,
+2026-03-02,Chicken Pie,47,7.0
+2026-03-02,Sausage Roll,43,6.0
+2026-03-02,Doughnut,52,13.0
+2026-03-02,Egg Roll,24,0.0
+2026-03-02,Fish Roll,35,3.0
+2026-03-02,Puff Puff Pack,33,2.0
+2026-03-02,Chin Chin Pack,21,0.0
+2026-03-02,Birthday Cake 8in,1,0.0
+2026-03-02,Cream Cake Slice,11,3.0
+2026-03-02,Cupcake,21,10.0
+2026-03-02,Banana Cake Loaf,6,4.0
+2026-03-02,Red Velvet Slice,8,0.0
+2026-03-02,Zobo Bottle,19,0.0
+2026-03-02,Fresh Yoghurt Bottle,15,
+2026-03-02,Bottled Water,32,0.0
+2026-03-02,Soft Drink,39,0.0
+2026-03-03,Agege Bread,57,12.0
+2026-03-03,Sliced Sandwich Bread,48,
+2026-03-03,Coconut Bread,30,7.0
+2026-03-03,Meat Pie,64,1.0
+2026-03-03,Chicken Pie,53,13.0
+2026-03-03,Sausage Roll,48,6.0
+2026-03-03,Doughnut,40,9.0
+2026-03-03,Egg Roll,28,13.0
+2026-03-03,Fish Roll,30,0.0
+2026-03-03,Puff Puff Pack,28,2.0
+2026-03-03,Chin Chin Pack,17,0.0
+2026-03-03,Birthday Cake 8in,1,0.0
+2026-03-03,Cream Cake Slice,12,5.0
+2026-03-03,Cupcake,21,5.0
+2026-03-03,Banana Cake Loaf,5,2.0
+2026-03-03,Red Velvet Slice,9,
+2026-03-03,Zobo Bottle,23,0.0
+2026-03-03,Fresh Yoghurt Bottle,17,0.0
+2026-03-03,Bottled Water,34,0.0
+2026-03-03,Soft Drink,41,0.0
+2026-03-04,Agege Bread,59,10.0
+2026-03-04,Sliced Sandwich Bread,42,
+2026-03-04,Coconut Bread,32,20.0
+2026-03-04,Meat Pie,59,4.0
+2026-03-04,Chicken Pie,55,25.0
+2026-03-04,Sausage Roll,54,8.0
+2026-03-04,Doughnut,44,5.0
+2026-03-04,Egg Roll,26,
+2026-03-04,Fish Roll,39,0.0
+2026-03-04,Puff Puff Pack,28,2.0
+2026-03-04,Chin Chin Pack,14,0.0
+2026-03-04,Birthday Cake 8in,0,0.0
+2026-03-04,Cream Cake Slice,12,8.0
+2026-03-04,Cupcake,21,0.0
+2026-03-04,Banana Cake Loaf,5,2.0
+2026-03-04,Red Velvet Slice,8,
+2026-03-04,Zobo Bottle,28,1.0
+2026-03-04,Fresh Yoghurt Bottle,18,7.0
+2026-03-04,Bottled Water,45,0.0
+2026-03-04,Soft Drink,29,0.0
+2026-03-05,Agege Bread,63,4.0
+2026-03-05,Sliced Sandwich Bread,32,0.0
+2026-03-05,Coconut Bread,33,22.0
+2026-03-05,Meat Pie,64,6.0
+2026-03-05,Chicken Pie,55,23.0
+2026-03-05,Sausage Roll,57,
+2026-03-05,Doughnut,47,12.0
+2026-03-05,Egg Roll,28,1.0
+2026-03-05,Fish Roll,37,1.0
+2026-03-05,Puff Puff Pack,31,7.0
+2026-03-05,Chin Chin Pack,24,0.0
+2026-03-05,Birthday Cake 8in,3,0.0
+2026-03-05,Cream Cake Slice,15,
+2026-03-05,Cupcake,24,5.0
+2026-03-05,Banana Cake Loaf,7,3.0
+2026-03-05,Red Velvet Slice,12,7.0
+2026-03-05,Zobo Bottle,24,7.0
+2026-03-05,Fresh Yoghurt Bottle,17,0.0
+2026-03-05,Bottled Water,41,0.0
+2026-03-05,Soft Drink,42,0.0
+2026-03-06,Agege Bread,63,0.0
+2026-03-06,Sliced Sandwich Bread,46,6.0
+2026-03-06,Coconut Bread,34,20.0
+2026-03-06,Meat Pie,83,0.0
+2026-03-06,Chicken Pie,73,36.0
+2026-03-06,Sausage Roll,54,21.0
+2026-03-06,Doughnut,54,1.0
+2026-03-06,Egg Roll,36,1.0
+2026-03-06,Fish Roll,39,8.0
+2026-03-06,Puff Puff Pack,35,0.0
+2026-03-06,Chin Chin Pack,24,0.0
+2026-03-06,Birthday Cake 8in,3,0.0
+2026-03-06,Cream Cake Slice,21,
+2026-03-06,Cupcake,30,9.0
+2026-03-06,Banana Cake Loaf,9,
+2026-03-06,Red Velvet Slice,14,2.0
+2026-03-06,Zobo Bottle,29,10.0
+2026-03-06,Fresh Yoghurt Bottle,17,3.0
+2026-03-06,Bottled Water,67,0.0
+2026-03-06,Soft Drink,41,0.0
+2026-03-07,Agege Bread,78,2.0
+2026-03-07,Sliced Sandwich Bread,52,
+2026-03-07,Coconut Bread,33,
+2026-03-07,Meat Pie,84,
+2026-03-07,Chicken Pie,67,40.0
+2026-03-07,Sausage Roll,57,0.0
+2026-03-07,Doughnut,51,8.0
+2026-03-07,Egg Roll,35,5.0
+2026-03-07,Fish Roll,39,0.0
+2026-03-07,Puff Puff Pack,46,
+2026-03-07,Chin Chin Pack,31,0.0
+2026-03-07,Birthday Cake 8in,2,0.0
+2026-03-07,Cream Cake Slice,28,16.0
+2026-03-07,Cupcake,52,0.0
+2026-03-07,Banana Cake Loaf,11,2.0
+2026-03-07,Red Velvet Slice,24,0.0
+2026-03-07,Zobo Bottle,29,0.0
+2026-03-07,Fresh Yoghurt Bottle,24,0.0
+2026-03-07,Bottled Water,56,0.0
+2026-03-07,Soft Drink,48,0.0
+2026-03-08,Agege Bread,50,3.0
+2026-03-08,Sliced Sandwich Bread,35,13.0
+2026-03-08,Coconut Bread,27,7.0
+2026-03-08,Meat Pie,63,4.0
+2026-03-08,Chicken Pie,47,18.0
+2026-03-08,Sausage Roll,43,0.0
+2026-03-08,Doughnut,47,4.0
+2026-03-08,Egg Roll,23,0.0
+2026-03-08,Fish Roll,28,0.0
+2026-03-08,Puff Puff Pack,33,8.0
+2026-03-08,Chin Chin Pack,15,0.0
+2026-03-08,Birthday Cake 8in,4,0.0
+2026-03-08,Cream Cake Slice,25,4.0
+2026-03-08,Cupcake,41,3.0
+2026-03-08,Banana Cake Loaf,13,8.0
+2026-03-08,Red Velvet Slice,16,0.0
+2026-03-08,Zobo Bottle,27,0.0
+2026-03-08,Fresh Yoghurt Bottle,18,7.0
+2026-03-08,Bottled Water,56,0.0
+2026-03-08,Soft Drink,38,0.0
+2026-03-09,Agege Bread,66,
+2026-03-09,Sliced Sandwich Bread,44,0.0
+2026-03-09,Coconut Bread,36,17.0
+2026-03-09,Meat Pie,66,18.0
+2026-03-09,Chicken Pie,53,21.0
+2026-03-09,Sausage Roll,49,
+2026-03-09,Doughnut,41,0.0
+2026-03-09,Egg Roll,27,6.0
+2026-03-09,Fish Roll,33,4.0
+2026-03-09,Puff Puff Pack,32,2.0
+2026-03-09,Chin Chin Pack,23,0.0
+2026-03-09,Birthday Cake 8in,1,0.0
+2026-03-09,Cream Cake Slice,12,2.0
+2026-03-09,Cupcake,17,
+2026-03-09,Banana Cake Loaf,5,0.0
+2026-03-09,Red Velvet Slice,10,4.0
+2026-03-09,Zobo Bottle,20,8.0
+2026-03-09,Fresh Yoghurt Bottle,17,0.0
+2026-03-09,Bottled Water,50,0.0
+2026-03-09,Soft Drink,32,0.0
+2026-03-10,Agege Bread,61,0.0
+2026-03-10,Sliced Sandwich Bread,46,2.0
+2026-03-10,Coconut Bread,29,19.0
+2026-03-10,Meat Pie,47,
+2026-03-10,Chicken Pie,63,34.0
+2026-03-10,Sausage Roll,51,0.0
+2026-03-10,Doughnut,42,10.0
+2026-03-10,Egg Roll,26,8.0
+2026-03-10,Fish Roll,31,6.0
+2026-03-10,Puff Puff Pack,27,4.0
+2026-03-10,Chin Chin Pack,13,0.0
+2026-03-10,Birthday Cake 8in,1,0.0
+2026-03-10,Cream Cake Slice,11,0.0
+2026-03-10,Cupcake,18,5.0
+2026-03-10,Banana Cake Loaf,6,5.0
+2026-03-10,Red Velvet Slice,9,0.0
+2026-03-10,Zobo Bottle,24,
+2026-03-10,Fresh Yoghurt Bottle,18,0.0
+2026-03-10,Bottled Water,40,0.0
+2026-03-10,Soft Drink,35,0.0
+2026-03-11,Agege Bread,53,
+2026-03-11,Sliced Sandwich Bread,47,7.0
+2026-03-11,Coconut Bread,26,
+2026-03-11,Meat Pie,67,0.0
+2026-03-11,Chicken Pie,56,17.0
+2026-03-11,Sausage Roll,47,
+2026-03-11,Doughnut,42,
+2026-03-11,Egg Roll,29,0.0
+2026-03-11,Fish Roll,31,2.0
+2026-03-11,Puff Puff Pack,36,8.0
+2026-03-11,Chin Chin Pack,21,0.0
+2026-03-11,Birthday Cake 8in,0,0.0
+2026-03-11,Cream Cake Slice,14,2.0
+2026-03-11,Cupcake,23,0.0
+2026-03-11,Banana Cake Loaf,7,0.0
+2026-03-11,Red Velvet Slice,10,3.0
+2026-03-11,Zobo Bottle,24,2.0
+2026-03-11,Fresh Yoghurt Bottle,15,2.0
+2026-03-11,Bottled Water,38,0.0
+2026-03-11,Soft Drink,40,0.0
+2026-03-12,Agege Bread,63,0.0
+2026-03-12,Sliced Sandwich Bread,54,7.0
+2026-03-12,Coconut Bread,28,11.0
+2026-03-12,Meat Pie,57,0.0
+2026-03-12,Chicken Pie,55,16.0
+2026-03-12,Sausage Roll,45,0.0
+2026-03-12,Doughnut,48,0.0
+2026-03-12,Egg Roll,29,5.0
+2026-03-12,Fish Roll,30,3.0
+2026-03-12,Puff Puff Pack,28,0.0
+2026-03-12,Chin Chin Pack,19,0.0
+2026-03-12,Birthday Cake 8in,1,0.0
+2026-03-12,Cream Cake Slice,14,4.0
+2026-03-12,Cupcake,23,
+2026-03-12,Banana Cake Loaf,7,0.0
+2026-03-12,Red Velvet Slice,13,
+2026-03-12,Zobo Bottle,31,0.0
+2026-03-12,Fresh Yoghurt Bottle,16,
+2026-03-12,Bottled Water,43,0.0
+2026-03-12,Soft Drink,22,0.0
+2026-03-13,Agege Bread,62,
+2026-03-13,Sliced Sandwich Bread,57,11.0
+2026-03-13,Coconut Bread,38,20.0
+2026-03-13,Meat Pie,70,
+2026-03-13,Chicken Pie,55,22.0
+2026-03-13,Sausage Roll,69,20.0
+2026-03-13,Doughnut,53,
+2026-03-13,Egg Roll,34,10.0
+2026-03-13,Fish Roll,40,11.0
+2026-03-13,Puff Puff Pack,41,6.0
+2026-03-13,Chin Chin Pack,27,0.0
+2026-03-13,Birthday Cake 8in,4,0.0
+2026-03-13,Cream Cake Slice,22,12.0
+2026-03-13,Cupcake,33,9.0
+2026-03-13,Banana Cake Loaf,10,0.0
+2026-03-13,Red Velvet Slice,16,0.0
+2026-03-13,Zobo Bottle,30,4.0
+2026-03-13,Fresh Yoghurt Bottle,20,6.0
+2026-03-13,Bottled Water,41,0.0
+2026-03-13,Soft Drink,60,0.0
+2026-03-14,Agege Bread,70,0.0
+2026-03-14,Sliced Sandwich Bread,46,17.0
+2026-03-14,Coconut Bread,38,15.0
+2026-03-14,Meat Pie,84,13.0
+2026-03-14,Chicken Pie,66,25.0
+2026-03-14,Sausage Roll,57,3.0
+2026-03-14,Doughnut,59,8.0
+2026-03-14,Egg Roll,35,7.0
+2026-03-14,Fish Roll,41,0.0
+2026-03-14,Puff Puff Pack,35,0.0
+2026-03-14,Chin Chin Pack,35,0.0
+2026-03-14,Birthday Cake 8in,5,0.0
+2026-03-14,Cream Cake Slice,26,6.0
+2026-03-14,Cupcake,48,
+2026-03-14,Banana Cake Loaf,14,5.0
+2026-03-14,Red Velvet Slice,23,2.0
+2026-03-14,Zobo Bottle,34,11.0
+2026-03-14,Fresh Yoghurt Bottle,23,2.0
+2026-03-14,Bottled Water,51,0.0
+2026-03-14,Soft Drink,46,0.0
+2026-03-15,Agege Bread,45,3.0
+2026-03-15,Sliced Sandwich Bread,30,0.0
+2026-03-15,Coconut Bread,22,4.0
+2026-03-15,Meat Pie,48,0.0
+2026-03-15,Chicken Pie,49,24.0
+2026-03-15,Sausage Roll,44,4.0
+2026-03-15,Doughnut,46,6.0
+2026-03-15,Egg Roll,25,8.0
+2026-03-15,Fish Roll,31,13.0
+2026-03-15,Puff Puff Pack,30,1.0
+2026-03-15,Chin Chin Pack,23,0.0
+2026-03-15,Birthday Cake 8in,3,0.0
+2026-03-15,Cream Cake Slice,27,7.0
+2026-03-15,Cupcake,48,
+2026-03-15,Banana Cake Loaf,12,0.0
+2026-03-15,Red Velvet Slice,19,
+2026-03-15,Zobo Bottle,31,0.0
+2026-03-15,Fresh Yoghurt Bottle,21,0.0
+2026-03-15,Bottled Water,47,0.0
+2026-03-15,Soft Drink,41,0.0
+2026-03-16,Agege Bread,65,3.0
+2026-03-16,Sliced Sandwich Bread,55,17.0
+2026-03-16,Coconut Bread,35,13.0
+2026-03-16,Meat Pie,66,
+2026-03-16,Chicken Pie,49,
+2026-03-16,Sausage Roll,44,7.0
+2026-03-16,Doughnut,49,
+2026-03-16,Egg Roll,32,
+2026-03-16,Fish Roll,34,0.0
+2026-03-16,Puff Puff Pack,39,
+2026-03-16,Chin Chin Pack,17,0.0
+2026-03-16,Birthday Cake 8in,1,0.0
+2026-03-16,Cream Cake Slice,10,6.0
+2026-03-16,Cupcake,19,
+2026-03-16,Banana Cake Loaf,5,1.0
+2026-03-16,Red Velvet Slice,10,0.0
+2026-03-16,Zobo Bottle,18,2.0
+2026-03-16,Fresh Yoghurt Bottle,16,0.0
+2026-03-16,Bottled Water,38,0.0
+2026-03-16,Soft Drink,39,0.0
+2026-03-17,Agege Bread,68,24.0
+2026-03-17,Sliced Sandwich Bread,47,2.0
+2026-03-17,Coconut Bread,36,
+2026-03-17,Meat Pie,65,0.0
+2026-03-17,Chicken Pie,53,18.0
+2026-03-17,Sausage Roll,50,18.0
+2026-03-17,Doughnut,40,12.0
+2026-03-17,Egg Roll,23,
+2026-03-17,Fish Roll,34,8.0
+2026-03-17,Puff Puff Pack,28,8.0
+2026-03-17,Chin Chin Pack,24,0.0
+2026-03-17,Birthday Cake 8in,3,0.0
+2026-03-17,Cream Cake Slice,10,3.0
+2026-03-17,Cupcake,24,8.0
+2026-03-17,Banana Cake Loaf,5,2.0
+2026-03-17,Red Velvet Slice,11,3.0
+2026-03-17,Zobo Bottle,22,3.0
+2026-03-17,Fresh Yoghurt Bottle,19,0.0
+2026-03-17,Bottled Water,39,0.0
+2026-03-17,Soft Drink,38,0.0
+2026-03-18,Agege Bread,68,0.0
+2026-03-18,Sliced Sandwich Bread,47,18.0
+2026-03-18,Coconut Bread,35,21.0
+2026-03-18,Meat Pie,70,18.0
+2026-03-18,Chicken Pie,56,27.0
+2026-03-18,Sausage Roll,48,0.0
+2026-03-18,Doughnut,47,9.0
+2026-03-18,Egg Roll,28,3.0
+2026-03-18,Fish Roll,31,9.0
+2026-03-18,Puff Puff Pack,33,0.0
+2026-03-18,Chin Chin Pack,27,0.0
+2026-03-18,Birthday Cake 8in,1,0.0
+2026-03-18,Cream Cake Slice,13,
+2026-03-18,Cupcake,23,
+2026-03-18,Banana Cake Loaf,5,3.0
+2026-03-18,Red Velvet Slice,8,2.0
+2026-03-18,Zobo Bottle,25,0.0
+2026-03-18,Fresh Yoghurt Bottle,19,2.0
+2026-03-18,Bottled Water,37,0.0
+2026-03-18,Soft Drink,44,0.0
+2026-03-19,Agege Bread,61,10.0
+2026-03-19,Sliced Sandwich Bread,48,1.0
+2026-03-19,Coconut Bread,35,
+2026-03-19,Meat Pie,67,24.0
+2026-03-19,Chicken Pie,57,17.0
+2026-03-19,Sausage Roll,48,12.0
+2026-03-19,Doughnut,51,11.0
+2026-03-19,Egg Roll,29,2.0
+2026-03-19,Fish Roll,32,0.0
+2026-03-19,Puff Puff Pack,42,21.0
+2026-03-19,Chin Chin Pack,17,0.0
+2026-03-19,Birthday Cake 8in,1,0.0
+2026-03-19,Cream Cake Slice,15,2.0
+2026-03-19,Cupcake,26,5.0
+2026-03-19,Banana Cake Loaf,7,2.0
+2026-03-19,Red Velvet Slice,10,0.0
+2026-03-19,Zobo Bottle,26,0.0
+2026-03-19,Fresh Yoghurt Bottle,15,1.0
+2026-03-19,Bottled Water,42,0.0
+2026-03-19,Soft Drink,41,0.0
+2026-03-20,Agege Bread,64,11.0
+2026-03-20,Sliced Sandwich Bread,62,28.0
+2026-03-20,Coconut Bread,42,23.0
+2026-03-20,Meat Pie,76,0.0
+2026-03-20,Chicken Pie,57,5.0
+2026-03-20,Sausage Roll,71,0.0
+2026-03-20,Doughnut,45,0.0
+2026-03-20,Egg Roll,40,0.0
+2026-03-20,Fish Roll,43,2.0
+2026-03-20,Puff Puff Pack,38,4.0
+2026-03-20,Chin Chin Pack,27,0.0
+2026-03-20,Birthday Cake 8in,2,0.0
+2026-03-20,Cream Cake Slice,21,0.0
+2026-03-20,Cupcake,36,0.0
+2026-03-20,Banana Cake Loaf,7,0.0
+2026-03-20,Red Velvet Slice,16,5.0
+2026-03-20,Zobo Bottle,25,0.0
+2026-03-20,Fresh Yoghurt Bottle,15,0.0
+2026-03-20,Bottled Water,45,0.0
+2026-03-20,Soft Drink,48,0.0
+2026-03-21,Agege Bread,63,0.0
+2026-03-21,Sliced Sandwich Bread,43,1.0
+2026-03-21,Coconut Bread,34,18.0
+2026-03-21,Meat Pie,82,18.0
+2026-03-21,Chicken Pie,67,26.0
+2026-03-21,Sausage Roll,67,0.0
+2026-03-21,Doughnut,58,
+2026-03-21,Egg Roll,35,0.0
+2026-03-21,Fish Roll,33,0.0
+2026-03-21,Puff Puff Pack,46,5.0
+2026-03-21,Chin Chin Pack,31,0.0
+2026-03-21,Birthday Cake 8in,3,0.0
+2026-03-21,Cream Cake Slice,28,2.0
+2026-03-21,Cupcake,53,16.0
+2026-03-21,Banana Cake Loaf,13,
+2026-03-21,Red Velvet Slice,23,8.0
+2026-03-21,Zobo Bottle,43,15.0
+2026-03-21,Fresh Yoghurt Bottle,22,0.0
+2026-03-21,Bottled Water,48,0.0
+2026-03-21,Soft Drink,49,0.0
+2026-03-22,Agege Bread,58,16.0
+2026-03-22,Sliced Sandwich Bread,35,0.0
+2026-03-22,Coconut Bread,22,4.0
+2026-03-22,Meat Pie,52,0.0
+2026-03-22,Chicken Pie,45,17.0
+2026-03-22,Sausage Roll,35,0.0
+2026-03-22,Doughnut,42,2.0
+2026-03-22,Egg Roll,22,0.0
+2026-03-22,Fish Roll,27,3.0
+2026-03-22,Puff Puff Pack,33,
+2026-03-22,Chin Chin Pack,20,0.0
+2026-03-22,Birthday Cake 8in,2,0.0
+2026-03-22,Cream Cake Slice,24,5.0
+2026-03-22,Cupcake,39,0.0
+2026-03-22,Banana Cake Loaf,14,4.0
+2026-03-22,Red Velvet Slice,19,0.0
+2026-03-22,Zobo Bottle,28,0.0
+2026-03-22,Fresh Yoghurt Bottle,18,11.0
+2026-03-22,Bottled Water,57,0.0
+2026-03-22,Soft Drink,35,0.0
+2026-03-23,Agege Bread,56,0.0
+2026-03-23,Sliced Sandwich Bread,41,0.0
+2026-03-23,Coconut Bread,36,21.0
+2026-03-23,Meat Pie,59,5.0
+2026-03-23,Chicken Pie,49,
+2026-03-23,Sausage Roll,45,8.0
+2026-03-23,Doughnut,46,10.0
+2026-03-23,Egg Roll,27,1.0
+2026-03-23,Fish Roll,29,1.0
+2026-03-23,Puff Puff Pack,31,9.0
+2026-03-23,Chin Chin Pack,20,0.0
+2026-03-23,Birthday Cake 8in,0,0.0
+2026-03-23,Cream Cake Slice,11,3.0
+2026-03-23,Cupcake,21,2.0
+2026-03-23,Banana Cake Loaf,5,2.0
+2026-03-23,Red Velvet Slice,8,0.0
+2026-03-23,Zobo Bottle,20,0.0
+2026-03-23,Fresh Yoghurt Bottle,17,7.0
+2026-03-23,Bottled Water,42,0.0
+2026-03-23,Soft Drink,28,0.0
+2026-03-24,Agege Bread,62,3.0
+2026-03-24,Sliced Sandwich Bread,47,1.0
+2026-03-24,Coconut Bread,40,23.0
+2026-03-24,Meat Pie,66,0.0
+2026-03-24,Chicken Pie,47,15.0
+2026-03-24,Sausage Roll,59,19.0
+2026-03-24,Doughnut,36,0.0
+2026-03-24,Egg Roll,32,14.0
+2026-03-24,Fish Roll,31,5.0
+2026-03-24,Puff Puff Pack,31,4.0
+2026-03-24,Chin Chin Pack,27,0.0
+2026-03-24,Birthday Cake 8in,0,0.0
+2026-03-24,Cream Cake Slice,11,4.0
+2026-03-24,Cupcake,24,8.0
+2026-03-24,Banana Cake Loaf,7,6.0
+2026-03-24,Red Velvet Slice,8,1.0
+2026-03-24,Zobo Bottle,20,
+2026-03-24,Fresh Yoghurt Bottle,15,0.0
+2026-03-24,Bottled Water,36,0.0
+2026-03-24,Soft Drink,30,0.0
+2026-03-25,Agege Bread,49,0.0
+2026-03-25,Sliced Sandwich Bread,44,0.0
+2026-03-25,Coconut Bread,36,
+2026-03-25,Meat Pie,74,1.0
+2026-03-25,Chicken Pie,56,22.0
+2026-03-25,Sausage Roll,42,0.0
+2026-03-25,Doughnut,50,14.0
+2026-03-25,Egg Roll,28,0.0
+2026-03-25,Fish Roll,34,0.0
+2026-03-25,Puff Puff Pack,37,0.0
+2026-03-25,Chin Chin Pack,28,0.0
+2026-03-25,Birthday Cake 8in,2,0.0
+2026-03-25,Cream Cake Slice,12,2.0
+2026-03-25,Cupcake,20,0.0
+2026-03-25,Banana Cake Loaf,7,0.0
+2026-03-25,Red Velvet Slice,9,0.0
+2026-03-25,Zobo Bottle,24,0.0
+2026-03-25,Fresh Yoghurt Bottle,17,2.0
+2026-03-25,Bottled Water,49,0.0
+2026-03-25,Soft Drink,41,0.0
+2026-03-26,Agege Bread,61,
+2026-03-26,Sliced Sandwich Bread,37,
+2026-03-26,Coconut Bread,26,
+2026-03-26,Meat Pie,61,
+2026-03-26,Chicken Pie,57,
+2026-03-26,Sausage Roll,51,0.0
+2026-03-26,Doughnut,43,0.0
+2026-03-26,Egg Roll,25,
+2026-03-26,Fish Roll,32,0.0
+2026-03-26,Puff Puff Pack,35,0.0
+2026-03-26,Chin Chin Pack,27,0.0
+2026-03-26,Birthday Cake 8in,0,0.0
+2026-03-26,Cream Cake Slice,15,5.0
+2026-03-26,Cupcake,30,8.0
+2026-03-26,Banana Cake Loaf,6,1.0
+2026-03-26,Red Velvet Slice,10,0.0
+2026-03-26,Zobo Bottle,26,0.0
+2026-03-26,Fresh Yoghurt Bottle,19,7.0
+2026-03-26,Bottled Water,53,0.0
+2026-03-26,Soft Drink,46,0.0
+2026-03-27,Agege Bread,68,6.0
+2026-03-27,Sliced Sandwich Bread,58,17.0
+2026-03-27,Coconut Bread,31,11.0
+2026-03-27,Meat Pie,79,0.0
+2026-03-27,Chicken Pie,54,11.0
+2026-03-27,Sausage Roll,68,18.0
+2026-03-27,Doughnut,48,0.0
+2026-03-27,Egg Roll,33,0.0
+2026-03-27,Fish Roll,34,0.0
+2026-03-27,Puff Puff Pack,38,4.0
+2026-03-27,Chin Chin Pack,20,0.0
+2026-03-27,Birthday Cake 8in,0,0.0
+2026-03-27,Cream Cake Slice,16,0.0
+2026-03-27,Cupcake,34,
+2026-03-27,Banana Cake Loaf,10,2.0
+2026-03-27,Red Velvet Slice,17,6.0
+2026-03-27,Zobo Bottle,27,
+2026-03-27,Fresh Yoghurt Bottle,20,3.0
+2026-03-27,Bottled Water,49,0.0
+2026-03-27,Soft Drink,52,0.0
+2026-03-28,Agege Bread,77,13.0
+2026-03-28,Sliced Sandwich Bread,50,0.0
+2026-03-28,Coconut Bread,37,18.0
+2026-03-28,Meat Pie,93,
+2026-03-28,Chicken Pie,74,17.0
+2026-03-28,Sausage Roll,65,
+2026-03-28,Doughnut,61,2.0
+2026-03-28,Egg Roll,32,1.0
+2026-03-28,Fish Roll,41,0.0
+2026-03-28,Puff Puff Pack,35,0.0
+2026-03-28,Chin Chin Pack,25,0.0
+2026-03-28,Birthday Cake 8in,1,0.0
+2026-03-28,Cream Cake Slice,27,1.0
+2026-03-28,Cupcake,51,12.0
+2026-03-28,Banana Cake Loaf,13,1.0
+2026-03-28,Red Velvet Slice,21,0.0
+2026-03-28,Zobo Bottle,23,0.0
+2026-03-28,Fresh Yoghurt Bottle,24,4.0
+2026-03-28,Bottled Water,61,0.0
+2026-03-28,Soft Drink,56,0.0
+2026-03-29,Agege Bread,48,0.0
+2026-03-29,Sliced Sandwich Bread,33,3.0
+2026-03-29,Coconut Bread,27,14.0
+2026-03-29,Meat Pie,59,0.0
+2026-03-29,Chicken Pie,54,19.0
+2026-03-29,Sausage Roll,46,7.0
+2026-03-29,Doughnut,35,0.0
+2026-03-29,Egg Roll,25,7.0
+2026-03-29,Fish Roll,33,6.0
+2026-03-29,Puff Puff Pack,32,0.0
+2026-03-29,Chin Chin Pack,33,0.0
+2026-03-29,Birthday Cake 8in,1,0.0
+2026-03-29,Cream Cake Slice,23,6.0
+2026-03-29,Cupcake,48,
+2026-03-29,Banana Cake Loaf,10,5.0
+2026-03-29,Red Velvet Slice,21,0.0
+2026-03-29,Zobo Bottle,32,10.0
+2026-03-29,Fresh Yoghurt Bottle,21,0.0
+2026-03-29,Bottled Water,68,0.0
+2026-03-29,Soft Drink,40,0.0
+2026-03-30,Agege Bread,60,0.0
+2026-03-30,Sliced Sandwich Bread,45,0.0
+2026-03-30,Coconut Bread,36,14.0
+2026-03-30,Meat Pie,61,8.0
+2026-03-30,Chicken Pie,62,30.0
+2026-03-30,Sausage Roll,51,
+2026-03-30,Doughnut,43,0.0
+2026-03-30,Egg Roll,24,0.0
+2026-03-30,Fish Roll,34,0.0
+2026-03-30,Puff Puff Pack,30,0.0
+2026-03-30,Chin Chin Pack,24,0.0
+2026-03-30,Birthday Cake 8in,0,0.0
+2026-03-30,Cream Cake Slice,12,1.0
+2026-03-30,Cupcake,19,
+2026-03-30,Banana Cake Loaf,5,1.0
+2026-03-30,Red Velvet Slice,7,3.0
+2026-03-30,Zobo Bottle,24,4.0
+2026-03-30,Fresh Yoghurt Bottle,14,0.0
+2026-03-30,Bottled Water,42,0.0
+2026-03-30,Soft Drink,28,0.0
+2026-03-31,Agege Bread,54,8.0
+2026-03-31,Sliced Sandwich Bread,43,2.0
+2026-03-31,Coconut Bread,31,7.0
+2026-03-31,Meat Pie,74,7.0
+2026-03-31,Chicken Pie,57,21.0
+2026-03-31,Sausage Roll,59,
+2026-03-31,Doughnut,43,0.0
+2026-03-31,Egg Roll,25,
+2026-03-31,Fish Roll,32,
+2026-03-31,Puff Puff Pack,33,3.0
+2026-03-31,Chin Chin Pack,18,0.0
+2026-03-31,Birthday Cake 8in,2,0.0
+2026-03-31,Cream Cake Slice,10,4.0
+2026-03-31,Cupcake,21,1.0
+2026-03-31,Banana Cake Loaf,6,0.0
+2026-03-31,Red Velvet Slice,8,0.0
+2026-03-31,Zobo Bottle,22,
+2026-03-31,Fresh Yoghurt Bottle,15,0.0
+2026-03-31,Bottled Water,35,0.0
+2026-03-31,Soft Drink,32,0.0
+2026-04-01,Agege Bread,64,16.0
+2026-04-01,Sliced Sandwich Bread,53,6.0
+2026-04-01,Coconut Bread,31,19.0
+2026-04-01,Meat Pie,80,18.0
+2026-04-01,Chicken Pie,54,20.0
+2026-04-01,Sausage Roll,57,5.0
+2026-04-01,Doughnut,39,0.0
+2026-04-01,Egg Roll,32,7.0
+2026-04-01,Fish Roll,38,13.0
+2026-04-01,Puff Puff Pack,26,
+2026-04-01,Chin Chin Pack,23,0.0
+2026-04-01,Birthday Cake 8in,2,0.0
+2026-04-01,Cream Cake Slice,12,3.0
+2026-04-01,Cupcake,24,0.0
+2026-04-01,Banana Cake Loaf,6,0.0
+2026-04-01,Red Velvet Slice,12,4.0
+2026-04-01,Zobo Bottle,22,7.0
+2026-04-01,Fresh Yoghurt Bottle,22,10.0
+2026-04-01,Bottled Water,37,0.0
+2026-04-01,Soft Drink,42,0.0
+2026-04-02,Agege Bread,51,0.0
+2026-04-02,Sliced Sandwich Bread,51,3.0
+2026-04-02,Coconut Bread,32,
+2026-04-02,Meat Pie,61,0.0
+2026-04-02,Chicken Pie,56,30.0
+2026-04-02,Sausage Roll,51,0.0
+2026-04-02,Doughnut,37,2.0
+2026-04-02,Egg Roll,29,11.0
+2026-04-02,Fish Roll,28,0.0
+2026-04-02,Puff Puff Pack,26,0.0
+2026-04-02,Chin Chin Pack,21,0.0
+2026-04-02,Birthday Cake 8in,1,0.0
+2026-04-02,Cream Cake Slice,14,2.0
+2026-04-02,Cupcake,29,10.0
+2026-04-02,Banana Cake Loaf,6,0.0
+2026-04-02,Red Velvet Slice,10,
+2026-04-02,Zobo Bottle,23,
+2026-04-02,Fresh Yoghurt Bottle,17,0.0
+2026-04-02,Bottled Water,37,0.0
+2026-04-02,Soft Drink,43,0.0
+2026-04-03,Agege Bread,69,7.0
+2026-04-03,Sliced Sandwich Bread,46,0.0
+2026-04-03,Coconut Bread,34,16.0
+2026-04-03,Meat Pie,68,0.0
+2026-04-03,Chicken Pie,69,18.0
+2026-04-03,Sausage Roll,55,0.0
+2026-04-03,Doughnut,52,3.0
+2026-04-03,Egg Roll,35,0.0
+2026-04-03,Fish Roll,40,0.0
+2026-04-03,Puff Puff Pack,41,
+2026-04-03,Chin Chin Pack,32,0.0
+2026-04-03,Birthday Cake 8in,4,0.0
+2026-04-03,Cream Cake Slice,19,1.0
+2026-04-03,Cupcake,30,0.0
+2026-04-03,Banana Cake Loaf,10,0.0
+2026-04-03,Red Velvet Slice,14,0.0
+2026-04-03,Zobo Bottle,27,2.0
+2026-04-03,Fresh Yoghurt Bottle,20,3.0
+2026-04-03,Bottled Water,65,0.0
+2026-04-03,Soft Drink,63,0.0
+2026-04-04,Agege Bread,66,20.0
+2026-04-04,Sliced Sandwich Bread,44,0.0
+2026-04-04,Coconut Bread,36,14.0
+2026-04-04,Meat Pie,88,37.0
+2026-04-04,Chicken Pie,72,31.0
+2026-04-04,Sausage Roll,59,8.0
+2026-04-04,Doughnut,53,10.0
+2026-04-04,Egg Roll,31,4.0
+2026-04-04,Fish Roll,35,7.0
+2026-04-04,Puff Puff Pack,42,11.0
+2026-04-04,Chin Chin Pack,23,0.0
+2026-04-04,Birthday Cake 8in,2,0.0
+2026-04-04,Cream Cake Slice,29,16.0
+2026-04-04,Cupcake,62,22.0
+2026-04-04,Banana Cake Loaf,12,2.0
+2026-04-04,Red Velvet Slice,19,
+2026-04-04,Zobo Bottle,30,0.0
+2026-04-04,Fresh Yoghurt Bottle,21,0.0
+2026-04-04,Bottled Water,52,0.0
+2026-04-04,Soft Drink,41,0.0
+2026-04-05,Agege Bread,50,0.0
+2026-04-05,Sliced Sandwich Bread,37,10.0
+2026-04-05,Coconut Bread,25,16.0
+2026-04-05,Meat Pie,51,0.0
+2026-04-05,Chicken Pie,55,24.0
+2026-04-05,Sausage Roll,48,0.0
+2026-04-05,Doughnut,38,0.0
+2026-04-05,Egg Roll,25,0.0
+2026-04-05,Fish Roll,21,0.0
+2026-04-05,Puff Puff Pack,30,0.0
+2026-04-05,Chin Chin Pack,17,0.0
+2026-04-05,Birthday Cake 8in,3,0.0
+2026-04-05,Cream Cake Slice,22,9.0
+2026-04-05,Cupcake,44,1.0
+2026-04-05,Banana Cake Loaf,10,
+2026-04-05,Red Velvet Slice,19,1.0
+2026-04-05,Zobo Bottle,27,7.0
+2026-04-05,Fresh Yoghurt Bottle,18,0.0
+2026-04-05,Bottled Water,43,0.0
+2026-04-05,Soft Drink,39,0.0
+2026-04-06,Agege Bread,68,34.0
+2026-04-06,Sliced Sandwich Bread,39,2.0
+2026-04-06,Coconut Bread,26,6.0
+2026-04-06,Meat Pie,66,0.0
+2026-04-06,Chicken Pie,55,16.0
+2026-04-06,Sausage Roll,46,
+2026-04-06,Doughnut,42,0.0
+2026-04-06,Egg Roll,25,5.0
+2026-04-06,Fish Roll,34,0.0
+2026-04-06,Puff Puff Pack,36,0.0
+2026-04-06,Chin Chin Pack,28,0.0
+2026-04-06,Birthday Cake 8in,2,0.0
+2026-04-06,Cream Cake Slice,9,0.0
+2026-04-06,Cupcake,18,0.0
+2026-04-06,Banana Cake Loaf,6,1.0
+2026-04-06,Red Velvet Slice,9,0.0
+2026-04-06,Zobo Bottle,23,4.0
+2026-04-06,Fresh Yoghurt Bottle,17,1.0
+2026-04-06,Bottled Water,55,0.0
+2026-04-06,Soft Drink,41,0.0
+2026-04-07,Agege Bread,69,19.0
+2026-04-07,Sliced Sandwich Bread,45,11.0
+2026-04-07,Coconut Bread,32,
+2026-04-07,Meat Pie,53,9.0
+2026-04-07,Chicken Pie,52,13.0
+2026-04-07,Sausage Roll,50,4.0
+2026-04-07,Doughnut,46,0.0
+2026-04-07,Egg Roll,28,5.0
+2026-04-07,Fish Roll,32,3.0
+2026-04-07,Puff Puff Pack,31,1.0
+2026-04-07,Chin Chin Pack,10,0.0
+2026-04-07,Birthday Cake 8in,3,0.0
+2026-04-07,Cream Cake Slice,10,2.0
+2026-04-07,Cupcake,20,1.0
+2026-04-07,Banana Cake Loaf,5,2.0
+2026-04-07,Red Velvet Slice,8,1.0
+2026-04-07,Zobo Bottle,23,
+2026-04-07,Fresh Yoghurt Bottle,15,3.0
+2026-04-07,Bottled Water,29,0.0
+2026-04-07,Soft Drink,26,0.0
+2026-04-08,Agege Bread,54,0.0
+2026-04-08,Sliced Sandwich Bread,40,
+2026-04-08,Coconut Bread,35,18.0
+2026-04-08,Meat Pie,64,0.0
+2026-04-08,Chicken Pie,55,21.0
+2026-04-08,Sausage Roll,47,14.0
+2026-04-08,Doughnut,40,5.0
+2026-04-08,Egg Roll,27,10.0
+2026-04-08,Fish Roll,34,2.0
+2026-04-08,Puff Puff Pack,29,2.0
+2026-04-08,Chin Chin Pack,19,0.0
+2026-04-08,Birthday Cake 8in,1,0.0
+2026-04-08,Cream Cake Slice,12,0.0
+2026-04-08,Cupcake,26,0.0
+2026-04-08,Banana Cake Loaf,6,
+2026-04-08,Red Velvet Slice,10,1.0
+2026-04-08,Zobo Bottle,28,
+2026-04-08,Fresh Yoghurt Bottle,18,4.0
+2026-04-08,Bottled Water,38,0.0
+2026-04-08,Soft Drink,31,0.0
+2026-04-09,Agege Bread,64,0.0
+2026-04-09,Sliced Sandwich Bread,49,16.0
+2026-04-09,Coconut Bread,25,5.0
+2026-04-09,Meat Pie,58,0.0
+2026-04-09,Chicken Pie,54,27.0
+2026-04-09,Sausage Roll,48,5.0
+2026-04-09,Doughnut,48,4.0
+2026-04-09,Egg Roll,27,4.0
+2026-04-09,Fish Roll,37,2.0
+2026-04-09,Puff Puff Pack,33,
+2026-04-09,Chin Chin Pack,25,0.0
+2026-04-09,Birthday Cake 8in,3,0.0
+2026-04-09,Cream Cake Slice,14,0.0
+2026-04-09,Cupcake,26,0.0
+2026-04-09,Banana Cake Loaf,7,1.0
+2026-04-09,Red Velvet Slice,9,0.0
+2026-04-09,Zobo Bottle,26,1.0
+2026-04-09,Fresh Yoghurt Bottle,16,0.0
+2026-04-09,Bottled Water,35,0.0
+2026-04-09,Soft Drink,41,0.0
+2026-04-10,Agege Bread,73,
+2026-04-10,Sliced Sandwich Bread,45,4.0
+2026-04-10,Coconut Bread,35,15.0
+2026-04-10,Meat Pie,78,0.0
+2026-04-10,Chicken Pie,53,3.0
+2026-04-10,Sausage Roll,58,16.0
+2026-04-10,Doughnut,57,13.0
+2026-04-10,Egg Roll,34,12.0
+2026-04-10,Fish Roll,40,3.0
+2026-04-10,Puff Puff Pack,41,5.0
+2026-04-10,Chin Chin Pack,16,0.0
+2026-04-10,Birthday Cake 8in,2,0.0
+2026-04-10,Cream Cake Slice,22,
+2026-04-10,Cupcake,39,8.0
+2026-04-10,Banana Cake Loaf,9,1.0
+2026-04-10,Red Velvet Slice,16,3.0
+2026-04-10,Zobo Bottle,28,0.0
+2026-04-10,Fresh Yoghurt Bottle,22,5.0
+2026-04-10,Bottled Water,47,0.0
+2026-04-10,Soft Drink,41,0.0
+2026-04-11,Agege Bread,65,0.0
+2026-04-11,Sliced Sandwich Bread,43,0.0
+2026-04-11,Coconut Bread,38,
+2026-04-11,Meat Pie,80,13.0
+2026-04-11,Chicken Pie,79,30.0
+2026-04-11,Sausage Roll,65,24.0
+2026-04-11,Doughnut,44,0.0
+2026-04-11,Egg Roll,34,0.0
+2026-04-11,Fish Roll,39,12.0
+2026-04-11,Puff Puff Pack,38,3.0
+2026-04-11,Chin Chin Pack,21,0.0
+2026-04-11,Birthday Cake 8in,0,0.0
+2026-04-11,Cream Cake Slice,28,12.0
+2026-04-11,Cupcake,49,0.0
+2026-04-11,Banana Cake Loaf,14,0.0
+2026-04-11,Red Velvet Slice,22,6.0
+2026-04-11,Zobo Bottle,30,6.0
+2026-04-11,Fresh Yoghurt Bottle,24,9.0
+2026-04-11,Bottled Water,61,0.0
+2026-04-11,Soft Drink,41,0.0
+2026-04-12,Agege Bread,48,9.0
+2026-04-12,Sliced Sandwich Bread,28,0.0
+2026-04-12,Coconut Bread,28,17.0
+2026-04-12,Meat Pie,57,13.0
+2026-04-12,Chicken Pie,49,23.0
+2026-04-12,Sausage Roll,42,0.0
+2026-04-12,Doughnut,40,0.0
+2026-04-12,Egg Roll,29,7.0
+2026-04-12,Fish Roll,33,16.0
+2026-04-12,Puff Puff Pack,29,6.0
+2026-04-12,Chin Chin Pack,25,0.0
+2026-04-12,Birthday Cake 8in,1,0.0
+2026-04-12,Cream Cake Slice,23,7.0
+2026-04-12,Cupcake,44,3.0
+2026-04-12,Banana Cake Loaf,11,
+2026-04-12,Red Velvet Slice,19,2.0
+2026-04-12,Zobo Bottle,33,11.0
+2026-04-12,Fresh Yoghurt Bottle,24,6.0
+2026-04-12,Bottled Water,55,0.0
+2026-04-12,Soft Drink,50,0.0
+2026-04-13,Agege Bread,59,
+2026-04-13,Sliced Sandwich Bread,52,0.0
+2026-04-13,Coconut Bread,31,
+2026-04-13,Meat Pie,59,2.0
+2026-04-13,Chicken Pie,47,16.0
+2026-04-13,Sausage Roll,41,0.0
+2026-04-13,Doughnut,45,14.0
+2026-04-13,Egg Roll,29,12.0
+2026-04-13,Fish Roll,26,3.0
+2026-04-13,Puff Puff Pack,35,8.0
+2026-04-13,Chin Chin Pack,14,0.0
+2026-04-13,Birthday Cake 8in,1,0.0
+2026-04-13,Cream Cake Slice,10,
+2026-04-13,Cupcake,18,0.0
+2026-04-13,Banana Cake Loaf,5,3.0
+2026-04-13,Red Velvet Slice,9,1.0
+2026-04-13,Zobo Bottle,21,1.0
+2026-04-13,Fresh Yoghurt Bottle,15,3.0
+2026-04-13,Bottled Water,23,0.0
+2026-04-13,Soft Drink,27,0.0
+2026-04-14,Agege Bread,66,7.0
+2026-04-14,Sliced Sandwich Bread,38,0.0
+2026-04-14,Coconut Bread,32,18.0
+2026-04-14,Meat Pie,53,3.0
+2026-04-14,Chicken Pie,55,23.0
+2026-04-14,Sausage Roll,51,6.0
+2026-04-14,Doughnut,43,6.0
+2026-04-14,Egg Roll,32,5.0
+2026-04-14,Fish Roll,32,0.0
+2026-04-14,Puff Puff Pack,32,4.0
+2026-04-14,Chin Chin Pack,16,0.0
+2026-04-14,Birthday Cake 8in,0,0.0
+2026-04-14,Cream Cake Slice,9,5.0
+2026-04-14,Cupcake,18,0.0
+2026-04-14,Banana Cake Loaf,5,0.0
+2026-04-14,Red Velvet Slice,11,5.0
+2026-04-14,Zobo Bottle,20,0.0
+2026-04-14,Fresh Yoghurt Bottle,14,4.0
+2026-04-14,Bottled Water,35,0.0
+2026-04-14,Soft Drink,30,0.0
+2026-04-15,Agege Bread,66,20.0
+2026-04-15,Sliced Sandwich Bread,43,6.0
+2026-04-15,Coconut Bread,33,16.0
+2026-04-15,Meat Pie,66,0.0
+2026-04-15,Chicken Pie,54,18.0
+2026-04-15,Sausage Roll,68,35.0
+2026-04-15,Doughnut,46,11.0
+2026-04-15,Egg Roll,28,8.0
+2026-04-15,Fish Roll,33,0.0
+2026-04-15,Puff Puff Pack,36,11.0
+2026-04-15,Chin Chin Pack,11,0.0
+2026-04-15,Birthday Cake 8in,1,0.0
+2026-04-15,Cream Cake Slice,12,0.0
+2026-04-15,Cupcake,22,0.0
+2026-04-15,Banana Cake Loaf,5,1.0
+2026-04-15,Red Velvet Slice,11,4.0
+2026-04-15,Zobo Bottle,25,0.0
+2026-04-15,Fresh Yoghurt Bottle,16,0.0
+2026-04-15,Bottled Water,42,0.0
+2026-04-15,Soft Drink,25,0.0
+2026-04-16,Agege Bread,69,13.0
+2026-04-16,Sliced Sandwich Bread,36,
+2026-04-16,Coconut Bread,32,16.0
+2026-04-16,Meat Pie,58,
+2026-04-16,Chicken Pie,58,13.0
+2026-04-16,Sausage Roll,55,14.0
+2026-04-16,Doughnut,46,0.0
+2026-04-16,Egg Roll,29,0.0
+2026-04-16,Fish Roll,36,12.0
+2026-04-16,Puff Puff Pack,37,5.0
+2026-04-16,Chin Chin Pack,23,0.0
+2026-04-16,Birthday Cake 8in,0,0.0
+2026-04-16,Cream Cake Slice,13,
+2026-04-16,Cupcake,21,6.0
+2026-04-16,Banana Cake Loaf,7,0.0
+2026-04-16,Red Velvet Slice,11,
+2026-04-16,Zobo Bottle,28,5.0
+2026-04-16,Fresh Yoghurt Bottle,20,3.0
+2026-04-16,Bottled Water,35,0.0
+2026-04-16,Soft Drink,41,0.0
+2026-04-17,Agege Bread,57,2.0
+2026-04-17,Sliced Sandwich Bread,47,
+2026-04-17,Coconut Bread,31,18.0
+2026-04-17,Meat Pie,77,21.0
+2026-04-17,Chicken Pie,57,18.0
+2026-04-17,Sausage Roll,47,0.0
+2026-04-17,Doughnut,47,10.0
+2026-04-17,Egg Roll,34,6.0
+2026-04-17,Fish Roll,31,0.0
+2026-04-17,Puff Puff Pack,38,16.0
+2026-04-17,Chin Chin Pack,23,0.0
+2026-04-17,Birthday Cake 8in,3,0.0
+2026-04-17,Cream Cake Slice,21,1.0
+2026-04-17,Cupcake,35,7.0
+2026-04-17,Banana Cake Loaf,9,4.0
+2026-04-17,Red Velvet Slice,15,0.0
+2026-04-17,Zobo Bottle,27,6.0
+2026-04-17,Fresh Yoghurt Bottle,16,
+2026-04-17,Bottled Water,45,0.0
+2026-04-17,Soft Drink,32,0.0
+2026-04-18,Agege Bread,67,5.0
+2026-04-18,Sliced Sandwich Bread,51,
+2026-04-18,Coconut Bread,33,9.0
+2026-04-18,Meat Pie,94,32.0
+2026-04-18,Chicken Pie,64,31.0
+2026-04-18,Sausage Roll,60,3.0
+2026-04-18,Doughnut,57,20.0
+2026-04-18,Egg Roll,33,8.0
+2026-04-18,Fish Roll,39,8.0
+2026-04-18,Puff Puff Pack,52,17.0
+2026-04-18,Chin Chin Pack,28,0.0
+2026-04-18,Birthday Cake 8in,5,0.0
+2026-04-18,Cream Cake Slice,28,2.0
+2026-04-18,Cupcake,45,0.0
+2026-04-18,Banana Cake Loaf,14,4.0
+2026-04-18,Red Velvet Slice,22,0.0
+2026-04-18,Zobo Bottle,37,7.0
+2026-04-18,Fresh Yoghurt Bottle,23,2.0
+2026-04-18,Bottled Water,54,0.0
+2026-04-18,Soft Drink,51,0.0
+2026-04-19,Agege Bread,52,0.0
+2026-04-19,Sliced Sandwich Bread,33,
+2026-04-19,Coconut Bread,24,12.0
+2026-04-19,Meat Pie,59,2.0
+2026-04-19,Chicken Pie,45,19.0
+2026-04-19,Sausage Roll,45,0.0
+2026-04-19,Doughnut,41,0.0
+2026-04-19,Egg Roll,29,
+2026-04-19,Fish Roll,36,9.0
+2026-04-19,Puff Puff Pack,36,11.0
+2026-04-19,Chin Chin Pack,20,0.0
+2026-04-19,Birthday Cake 8in,1,0.0
+2026-04-19,Cream Cake Slice,24,11.0
+2026-04-19,Cupcake,37,3.0
+2026-04-19,Banana Cake Loaf,11,1.0
+2026-04-19,Red Velvet Slice,20,11.0
+2026-04-19,Zobo Bottle,28,0.0
+2026-04-19,Fresh Yoghurt Bottle,20,7.0
+2026-04-19,Bottled Water,61,0.0
+2026-04-19,Soft Drink,40,0.0
+2026-04-20,Agege Bread,59,1.0
+2026-04-20,Sliced Sandwich Bread,52,17.0
+2026-04-20,Coconut Bread,27,8.0
+2026-04-20,Meat Pie,59,0.0
+2026-04-20,Chicken Pie,55,23.0
+2026-04-20,Sausage Roll,47,7.0
+2026-04-20,Doughnut,41,0.0
+2026-04-20,Egg Roll,29,4.0
+2026-04-20,Fish Roll,34,7.0
+2026-04-20,Puff Puff Pack,35,0.0
+2026-04-20,Chin Chin Pack,11,0.0
+2026-04-20,Birthday Cake 8in,1,0.0
+2026-04-20,Cream Cake Slice,10,0.0
+2026-04-20,Cupcake,20,0.0
+2026-04-20,Banana Cake Loaf,4,0.0
+2026-04-20,Red Velvet Slice,9,2.0
+2026-04-20,Zobo Bottle,21,
+2026-04-20,Fresh Yoghurt Bottle,16,3.0
+2026-04-20,Bottled Water,33,0.0
+2026-04-20,Soft Drink,34,0.0
+2026-04-21,Agege Bread,61,23.0
+2026-04-21,Sliced Sandwich Bread,47,
+2026-04-21,Coconut Bread,31,8.0
+2026-04-21,Meat Pie,61,4.0
+2026-04-21,Chicken Pie,60,27.0
+2026-04-21,Sausage Roll,49,14.0
+2026-04-21,Doughnut,45,23.0
+2026-04-21,Egg Roll,27,2.0
+2026-04-21,Fish Roll,34,0.0
+2026-04-21,Puff Puff Pack,25,0.0
+2026-04-21,Chin Chin Pack,22,0.0
+2026-04-21,Birthday Cake 8in,0,0.0
+2026-04-21,Cream Cake Slice,12,5.0
+2026-04-21,Cupcake,22,0.0
+2026-04-21,Banana Cake Loaf,6,2.0
+2026-04-21,Red Velvet Slice,8,0.0
+2026-04-21,Zobo Bottle,25,1.0
+2026-04-21,Fresh Yoghurt Bottle,17,1.0
+2026-04-21,Bottled Water,56,0.0
+2026-04-21,Soft Drink,27,0.0
+2026-04-22,Agege Bread,54,0.0
+2026-04-22,Sliced Sandwich Bread,48,7.0
+2026-04-22,Coconut Bread,30,12.0
+2026-04-22,Meat Pie,73,4.0
+2026-04-22,Chicken Pie,56,28.0
+2026-04-22,Sausage Roll,49,0.0
+2026-04-22,Doughnut,49,11.0
+2026-04-22,Egg Roll,24,0.0
+2026-04-22,Fish Roll,34,4.0
+2026-04-22,Puff Puff Pack,38,14.0
+2026-04-22,Chin Chin Pack,23,0.0
+2026-04-22,Birthday Cake 8in,2,0.0
+2026-04-22,Cream Cake Slice,14,0.0
+2026-04-22,Cupcake,22,0.0
+2026-04-22,Banana Cake Loaf,7,0.0
+2026-04-22,Red Velvet Slice,11,3.0
+2026-04-22,Zobo Bottle,20,1.0
+2026-04-22,Fresh Yoghurt Bottle,17,1.0
+2026-04-22,Bottled Water,45,0.0
+2026-04-22,Soft Drink,39,0.0
+2026-04-23,Agege Bread,57,10.0
+2026-04-23,Sliced Sandwich Bread,45,2.0
+2026-04-23,Coconut Bread,33,17.0
+2026-04-23,Meat Pie,65,0.0
+2026-04-23,Chicken Pie,50,
+2026-04-23,Sausage Roll,56,
+2026-04-23,Doughnut,42,0.0
+2026-04-23,Egg Roll,31,9.0
+2026-04-23,Fish Roll,30,3.0
+2026-04-23,Puff Puff Pack,32,0.0
+2026-04-23,Chin Chin Pack,13,0.0
+2026-04-23,Birthday Cake 8in,6,0.0
+2026-04-23,Cream Cake Slice,14,1.0
+2026-04-23,Cupcake,28,
+2026-04-23,Banana Cake Loaf,7,2.0
+2026-04-23,Red Velvet Slice,12,5.0
+2026-04-23,Zobo Bottle,22,0.0
+2026-04-23,Fresh Yoghurt Bottle,17,2.0
+2026-04-23,Bottled Water,58,0.0
+2026-04-23,Soft Drink,32,0.0
+2026-04-24,Agege Bread,66,0.0
+2026-04-24,Sliced Sandwich Bread,58,
+2026-04-24,Coconut Bread,40,15.0
+2026-04-24,Meat Pie,70,
+2026-04-24,Chicken Pie,63,16.0
+2026-04-24,Sausage Roll,50,4.0
+2026-04-24,Doughnut,53,2.0
+2026-04-24,Egg Roll,31,10.0
+2026-04-24,Fish Roll,44,14.0
+2026-04-24,Puff Puff Pack,38,21.0
+2026-04-24,Chin Chin Pack,20,0.0
+2026-04-24,Birthday Cake 8in,1,0.0
+2026-04-24,Cream Cake Slice,18,4.0
+2026-04-24,Cupcake,32,
+2026-04-24,Banana Cake Loaf,9,
+2026-04-24,Red Velvet Slice,15,
+2026-04-24,Zobo Bottle,30,1.0
+2026-04-24,Fresh Yoghurt Bottle,19,6.0
+2026-04-24,Bottled Water,43,0.0
+2026-04-24,Soft Drink,36,0.0
+2026-04-25,Agege Bread,59,0.0
+2026-04-25,Sliced Sandwich Bread,51,0.0
+2026-04-25,Coconut Bread,35,10.0
+2026-04-25,Meat Pie,90,11.0
+2026-04-25,Chicken Pie,67,
+2026-04-25,Sausage Roll,59,3.0
+2026-04-25,Doughnut,54,0.0
+2026-04-25,Egg Roll,30,
+2026-04-25,Fish Roll,38,0.0
+2026-04-25,Puff Puff Pack,43,9.0
+2026-04-25,Chin Chin Pack,25,0.0
+2026-04-25,Birthday Cake 8in,1,0.0
+2026-04-25,Cream Cake Slice,32,
+2026-04-25,Cupcake,42,
+2026-04-25,Banana Cake Loaf,12,0.0
+2026-04-25,Red Velvet Slice,24,2.0
+2026-04-25,Zobo Bottle,30,0.0
+2026-04-25,Fresh Yoghurt Bottle,27,0.0
+2026-04-25,Bottled Water,70,0.0
+2026-04-25,Soft Drink,74,0.0
+2026-04-26,Agege Bread,48,0.0
+2026-04-26,Sliced Sandwich Bread,33,0.0
+2026-04-26,Coconut Bread,21,7.0
+2026-04-26,Meat Pie,71,9.0
+2026-04-26,Chicken Pie,50,15.0
+2026-04-26,Sausage Roll,42,0.0
+2026-04-26,Doughnut,38,
+2026-04-26,Egg Roll,27,0.0
+2026-04-26,Fish Roll,29,0.0
+2026-04-26,Puff Puff Pack,28,0.0
+2026-04-26,Chin Chin Pack,27,0.0
+2026-04-26,Birthday Cake 8in,2,0.0
+2026-04-26,Cream Cake Slice,23,0.0
+2026-04-26,Cupcake,41,0.0
+2026-04-26,Banana Cake Loaf,11,3.0
+2026-04-26,Red Velvet Slice,17,
+2026-04-26,Zobo Bottle,29,0.0
+2026-04-26,Fresh Yoghurt Bottle,23,
+2026-04-26,Bottled Water,75,0.0
+2026-04-26,Soft Drink,54,0.0
+2026-04-27,Agege Bread,68,0.0
+2026-04-27,Sliced Sandwich Bread,44,0.0
+2026-04-27,Coconut Bread,28,6.0
+2026-04-27,Meat Pie,68,2.0
+2026-04-27,Chicken Pie,52,10.0
+2026-04-27,Sausage Roll,60,0.0
+2026-04-27,Doughnut,40,1.0
+2026-04-27,Egg Roll,23,1.0
+2026-04-27,Fish Roll,38,6.0
+2026-04-27,Puff Puff Pack,39,9.0
+2026-04-27,Chin Chin Pack,25,0.0
+2026-04-27,Birthday Cake 8in,0,0.0
+2026-04-27,Cream Cake Slice,10,0.0
+2026-04-27,Cupcake,21,1.0
+2026-04-27,Banana Cake Loaf,5,0.0
+2026-04-27,Red Velvet Slice,9,2.0
+2026-04-27,Zobo Bottle,22,0.0
+2026-04-27,Fresh Yoghurt Bottle,16,1.0
+2026-04-27,Bottled Water,48,0.0
+2026-04-27,Soft Drink,34,0.0
+2026-04-28,Agege Bread,53,0.0
+2026-04-28,Sliced Sandwich Bread,42,3.0
+2026-04-28,Coconut Bread,25,1.0
+2026-04-28,Meat Pie,53,0.0
+2026-04-28,Chicken Pie,45,4.0
+2026-04-28,Sausage Roll,48,8.0
+2026-04-28,Doughnut,47,3.0
+2026-04-28,Egg Roll,29,7.0
+2026-04-28,Fish Roll,30,0.0
+2026-04-28,Puff Puff Pack,27,0.0
+2026-04-28,Chin Chin Pack,17,0.0
+2026-04-28,Birthday Cake 8in,1,0.0
+2026-04-28,Cream Cake Slice,10,0.0
+2026-04-28,Cupcake,20,6.0
+2026-04-28,Banana Cake Loaf,5,3.0
+2026-04-28,Red Velvet Slice,9,0.0
+2026-04-28,Zobo Bottle,26,8.0
+2026-04-28,Fresh Yoghurt Bottle,17,
+2026-04-28,Bottled Water,43,0.0
+2026-04-28,Soft Drink,36,0.0
+2026-04-29,Agege Bread,64,7.0
+2026-04-29,Sliced Sandwich Bread,39,1.0
+2026-04-29,Coconut Bread,29,12.0
+2026-04-29,Meat Pie,77,21.0
+2026-04-29,Chicken Pie,61,22.0
+2026-04-29,Sausage Roll,49,0.0
+2026-04-29,Doughnut,47,0.0
+2026-04-29,Egg Roll,24,0.0
+2026-04-29,Fish Roll,33,4.0
+2026-04-29,Puff Puff Pack,26,0.0
+2026-04-29,Chin Chin Pack,21,0.0
+2026-04-29,Birthday Cake 8in,2,0.0
+2026-04-29,Cream Cake Slice,14,1.0
+2026-04-29,Cupcake,22,0.0
+2026-04-29,Banana Cake Loaf,5,1.0
+2026-04-29,Red Velvet Slice,10,
+2026-04-29,Zobo Bottle,26,0.0
+2026-04-29,Fresh Yoghurt Bottle,19,0.0
+2026-04-29,Bottled Water,67,0.0
+2026-04-29,Soft Drink,39,0.0
+2026-04-30,Agege Bread,69,0.0
+2026-04-30,Sliced Sandwich Bread,38,0.0
+2026-04-30,Coconut Bread,33,15.0
+2026-04-30,Meat Pie,69,
+2026-04-30,Chicken Pie,49,
+2026-04-30,Sausage Roll,47,0.0
+2026-04-30,Doughnut,43,7.0
+2026-04-30,Egg Roll,24,0.0
+2026-04-30,Fish Roll,34,4.0
+2026-04-30,Puff Puff Pack,31,7.0
+2026-04-30,Chin Chin Pack,26,0.0
+2026-04-30,Birthday Cake 8in,2,0.0
+2026-04-30,Cream Cake Slice,13,0.0
+2026-04-30,Cupcake,25,0.0
+2026-04-30,Banana Cake Loaf,7,0.0
+2026-04-30,Red Velvet Slice,13,4.0
+2026-04-30,Zobo Bottle,25,3.0
+2026-04-30,Fresh Yoghurt Bottle,16,
+2026-04-30,Bottled Water,54,0.0
+2026-04-30,Soft Drink,49,0.0
+2026-05-01,Agege Bread,69,12.0
+2026-05-01,Sliced Sandwich Bread,47,6.0
+2026-05-01,Coconut Bread,32,6.0
+2026-05-01,Meat Pie,70,0.0
+2026-05-01,Chicken Pie,64,19.0
+2026-05-01,Sausage Roll,49,0.0
+2026-05-01,Doughnut,61,0.0
+2026-05-01,Egg Roll,29,0.0
+2026-05-01,Fish Roll,39,0.0
+2026-05-01,Puff Puff Pack,35,0.0
+2026-05-01,Chin Chin Pack,20,0.0
+2026-05-01,Birthday Cake 8in,3,0.0
+2026-05-01,Cream Cake Slice,21,6.0
+2026-05-01,Cupcake,33,0.0
+2026-05-01,Banana Cake Loaf,11,2.0
+2026-05-01,Red Velvet Slice,15,6.0
+2026-05-01,Zobo Bottle,31,
+2026-05-01,Fresh Yoghurt Bottle,21,0.0
+2026-05-01,Bottled Water,64,0.0
+2026-05-01,Soft Drink,51,0.0
+2026-05-02,Agege Bread,72,6.0
+2026-05-02,Sliced Sandwich Bread,54,14.0
+2026-05-02,Coconut Bread,34,16.0
+2026-05-02,Meat Pie,75,8.0
+2026-05-02,Chicken Pie,57,
+2026-05-02,Sausage Roll,62,0.0
+2026-05-02,Doughnut,49,4.0
+2026-05-02,Egg Roll,35,6.0
+2026-05-02,Fish Roll,40,
+2026-05-02,Puff Puff Pack,44,17.0
+2026-05-02,Chin Chin Pack,27,0.0
+2026-05-02,Birthday Cake 8in,3,0.0
+2026-05-02,Cream Cake Slice,28,5.0
+2026-05-02,Cupcake,49,9.0
+2026-05-02,Banana Cake Loaf,11,0.0
+2026-05-02,Red Velvet Slice,20,0.0
+2026-05-02,Zobo Bottle,27,
+2026-05-02,Fresh Yoghurt Bottle,23,0.0
+2026-05-02,Bottled Water,46,0.0
+2026-05-02,Soft Drink,31,0.0
+2026-05-03,Agege Bread,54,3.0
+2026-05-03,Sliced Sandwich Bread,28,0.0
+2026-05-03,Coconut Bread,23,8.0
+2026-05-03,Meat Pie,56,0.0
+2026-05-03,Chicken Pie,52,20.0
+2026-05-03,Sausage Roll,42,4.0
+2026-05-03,Doughnut,36,6.0
+2026-05-03,Egg Roll,25,0.0
+2026-05-03,Fish Roll,36,
+2026-05-03,Puff Puff Pack,33,
+2026-05-03,Chin Chin Pack,36,0.0
+2026-05-03,Birthday Cake 8in,4,0.0
+2026-05-03,Cream Cake Slice,22,1.0
+2026-05-03,Cupcake,46,11.0
+2026-05-03,Banana Cake Loaf,10,
+2026-05-03,Red Velvet Slice,20,3.0
+2026-05-03,Zobo Bottle,27,
+2026-05-03,Fresh Yoghurt Bottle,27,10.0
+2026-05-03,Bottled Water,45,0.0
+2026-05-03,Soft Drink,41,0.0
+2026-05-04,Agege Bread,69,1.0
+2026-05-04,Sliced Sandwich Bread,47,
+2026-05-04,Coconut Bread,30,5.0
+2026-05-04,Meat Pie,64,3.0
+2026-05-04,Chicken Pie,47,10.0
+2026-05-04,Sausage Roll,45,7.0
+2026-05-04,Doughnut,40,3.0
+2026-05-04,Egg Roll,34,6.0
+2026-05-04,Fish Roll,32,2.0
+2026-05-04,Puff Puff Pack,35,5.0
+2026-05-04,Chin Chin Pack,23,0.0
+2026-05-04,Birthday Cake 8in,1,0.0
+2026-05-04,Cream Cake Slice,10,2.0
+2026-05-04,Cupcake,21,
+2026-05-04,Banana Cake Loaf,5,0.0
+2026-05-04,Red Velvet Slice,10,1.0
+2026-05-04,Zobo Bottle,21,0.0
+2026-05-04,Fresh Yoghurt Bottle,15,2.0
+2026-05-04,Bottled Water,31,0.0
+2026-05-04,Soft Drink,43,0.0
+2026-05-05,Agege Bread,48,0.0
+2026-05-05,Sliced Sandwich Bread,40,4.0
+2026-05-05,Coconut Bread,30,8.0
+2026-05-05,Meat Pie,67,8.0
+2026-05-05,Chicken Pie,59,
+2026-05-05,Sausage Roll,42,0.0
+2026-05-05,Doughnut,46,16.0
+2026-05-05,Egg Roll,25,8.0
+2026-05-05,Fish Roll,28,
+2026-05-05,Puff Puff Pack,27,10.0
+2026-05-05,Chin Chin Pack,21,0.0
+2026-05-05,Birthday Cake 8in,2,0.0
+2026-05-05,Cream Cake Slice,10,1.0
+2026-05-05,Cupcake,21,8.0
+2026-05-05,Banana Cake Loaf,5,2.0
+2026-05-05,Red Velvet Slice,9,1.0
+2026-05-05,Zobo Bottle,19,7.0
+2026-05-05,Fresh Yoghurt Bottle,15,3.0
+2026-05-05,Bottled Water,27,0.0
+2026-05-05,Soft Drink,26,0.0
+2026-05-06,Agege Bread,62,
+2026-05-06,Sliced Sandwich Bread,48,
+2026-05-06,Coconut Bread,36,16.0
+2026-05-06,Meat Pie,75,6.0
+2026-05-06,Chicken Pie,60,7.0
+2026-05-06,Sausage Roll,53,8.0
+2026-05-06,Doughnut,47,9.0
+2026-05-06,Egg Roll,30,5.0
+2026-05-06,Fish Roll,31,4.0
+2026-05-06,Puff Puff Pack,32,0.0
+2026-05-06,Chin Chin Pack,18,0.0
+2026-05-06,Birthday Cake 8in,1,0.0
+2026-05-06,Cream Cake Slice,12,0.0
+2026-05-06,Cupcake,21,0.0
+2026-05-06,Banana Cake Loaf,6,0.0
+2026-05-06,Red Velvet Slice,12,4.0
+2026-05-06,Zobo Bottle,27,8.0
+2026-05-06,Fresh Yoghurt Bottle,17,0.0
+2026-05-06,Bottled Water,55,0.0
+2026-05-06,Soft Drink,37,0.0
+2026-05-07,Agege Bread,55,
+2026-05-07,Sliced Sandwich Bread,54,29.0
+2026-05-07,Coconut Bread,32,15.0
+2026-05-07,Meat Pie,61,11.0
+2026-05-07,Chicken Pie,56,14.0
+2026-05-07,Sausage Roll,48,0.0
+2026-05-07,Doughnut,47,12.0
+2026-05-07,Egg Roll,35,10.0
+2026-05-07,Fish Roll,35,0.0
+2026-05-07,Puff Puff Pack,34,5.0
+2026-05-07,Chin Chin Pack,23,0.0
+2026-05-07,Birthday Cake 8in,1,0.0
+2026-05-07,Cream Cake Slice,14,9.0
+2026-05-07,Cupcake,25,0.0
+2026-05-07,Banana Cake Loaf,7,2.0
+2026-05-07,Red Velvet Slice,11,5.0
+2026-05-07,Zobo Bottle,24,0.0
+2026-05-07,Fresh Yoghurt Bottle,17,3.0
+2026-05-07,Bottled Water,35,0.0
+2026-05-07,Soft Drink,36,0.0
+2026-05-08,Agege Bread,64,6.0
+2026-05-08,Sliced Sandwich Bread,42,2.0
+2026-05-08,Coconut Bread,37,10.0
+2026-05-08,Meat Pie,72,1.0
+2026-05-08,Chicken Pie,66,22.0
+2026-05-08,Sausage Roll,52,
+2026-05-08,Doughnut,54,9.0
+2026-05-08,Egg Roll,37,7.0
+2026-05-08,Fish Roll,40,8.0
+2026-05-08,Puff Puff Pack,38,0.0
+2026-05-08,Chin Chin Pack,16,0.0
+2026-05-08,Birthday Cake 8in,0,0.0
+2026-05-08,Cream Cake Slice,16,2.0
+2026-05-08,Cupcake,35,0.0
+2026-05-08,Banana Cake Loaf,9,0.0
+2026-05-08,Red Velvet Slice,16,5.0
+2026-05-08,Zobo Bottle,28,0.0
+2026-05-08,Fresh Yoghurt Bottle,20,7.0
+2026-05-08,Bottled Water,45,0.0
+2026-05-08,Soft Drink,41,0.0
+2026-05-09,Agege Bread,69,7.0
+2026-05-09,Sliced Sandwich Bread,49,19.0
+2026-05-09,Coconut Bread,32,17.0
+2026-05-09,Meat Pie,75,
+2026-05-09,Chicken Pie,60,10.0
+2026-05-09,Sausage Roll,69,20.0
+2026-05-09,Doughnut,49,0.0
+2026-05-09,Egg Roll,33,5.0
+2026-05-09,Fish Roll,37,8.0
+2026-05-09,Puff Puff Pack,44,17.0
+2026-05-09,Chin Chin Pack,17,0.0
+2026-05-09,Birthday Cake 8in,1,0.0
+2026-05-09,Cream Cake Slice,24,0.0
+2026-05-09,Cupcake,43,4.0
+2026-05-09,Banana Cake Loaf,15,3.0
+2026-05-09,Red Velvet Slice,22,1.0
+2026-05-09,Zobo Bottle,30,0.0
+2026-05-09,Fresh Yoghurt Bottle,23,
+2026-05-09,Bottled Water,49,0.0
+2026-05-09,Soft Drink,40,0.0
+2026-05-10,Agege Bread,55,0.0
+2026-05-10,Sliced Sandwich Bread,35,1.0
+2026-05-10,Coconut Bread,23,12.0
+2026-05-10,Meat Pie,48,10.0
+2026-05-10,Chicken Pie,46,9.0
+2026-05-10,Sausage Roll,45,7.0
+2026-05-10,Doughnut,38,3.0
+2026-05-10,Egg Roll,27,
+2026-05-10,Fish Roll,29,7.0
+2026-05-10,Puff Puff Pack,35,8.0
+2026-05-10,Chin Chin Pack,16,0.0
+2026-05-10,Birthday Cake 8in,4,0.0
+2026-05-10,Cream Cake Slice,28,12.0
+2026-05-10,Cupcake,49,21.0
+2026-05-10,Banana Cake Loaf,11,
+2026-05-10,Red Velvet Slice,19,0.0
+2026-05-10,Zobo Bottle,36,6.0
+2026-05-10,Fresh Yoghurt Bottle,23,6.0
+2026-05-10,Bottled Water,50,0.0
+2026-05-10,Soft Drink,38,0.0
+2026-05-11,Agege Bread,70,6.0
+2026-05-11,Sliced Sandwich Bread,44,8.0
+2026-05-11,Coconut Bread,35,
+2026-05-11,Meat Pie,51,3.0
+2026-05-11,Chicken Pie,52,23.0
+2026-05-11,Sausage Roll,56,2.0
+2026-05-11,Doughnut,50,23.0
+2026-05-11,Egg Roll,28,9.0
+2026-05-11,Fish Roll,31,6.0
+2026-05-11,Puff Puff Pack,33,11.0
+2026-05-11,Chin Chin Pack,21,0.0
+2026-05-11,Birthday Cake 8in,0,0.0
+2026-05-11,Cream Cake Slice,10,0.0
+2026-05-11,Cupcake,21,3.0
+2026-05-11,Banana Cake Loaf,5,3.0
+2026-05-11,Red Velvet Slice,8,0.0
+2026-05-11,Zobo Bottle,22,6.0
+2026-05-11,Fresh Yoghurt Bottle,18,
+2026-05-11,Bottled Water,40,0.0
+2026-05-11,Soft Drink,39,0.0
+2026-05-12,Agege Bread,50,2.0
+2026-05-12,Sliced Sandwich Bread,54,4.0
+2026-05-12,Coconut Bread,34,
+2026-05-12,Meat Pie,72,20.0
+2026-05-12,Chicken Pie,48,11.0
+2026-05-12,Sausage Roll,44,1.0
+2026-05-12,Doughnut,45,2.0
+2026-05-12,Egg Roll,27,0.0
+2026-05-12,Fish Roll,35,11.0
+2026-05-12,Puff Puff Pack,35,
+2026-05-12,Chin Chin Pack,20,0.0
+2026-05-12,Birthday Cake 8in,2,0.0
+2026-05-12,Cream Cake Slice,11,
+2026-05-12,Cupcake,19,0.0
+2026-05-12,Banana Cake Loaf,5,0.0
+2026-05-12,Red Velvet Slice,8,0.0
+2026-05-12,Zobo Bottle,21,1.0
+2026-05-12,Fresh Yoghurt Bottle,15,0.0
+2026-05-12,Bottled Water,46,0.0
+2026-05-12,Soft Drink,24,0.0
+2026-05-13,Agege Bread,56,0.0
+2026-05-13,Sliced Sandwich Bread,38,0.0
+2026-05-13,Coconut Bread,34,14.0
+2026-05-13,Meat Pie,70,7.0
+2026-05-13,Chicken Pie,48,0.0
+2026-05-13,Sausage Roll,50,13.0
+2026-05-13,Doughnut,45,6.0
+2026-05-13,Egg Roll,26,2.0
+2026-05-13,Fish Roll,45,14.0
+2026-05-13,Puff Puff Pack,31,0.0
+2026-05-13,Chin Chin Pack,23,0.0
+2026-05-13,Birthday Cake 8in,2,0.0
+2026-05-13,Cream Cake Slice,12,2.0
+2026-05-13,Cupcake,24,2.0
+2026-05-13,Banana Cake Loaf,6,0.0
+2026-05-13,Red Velvet Slice,10,5.0
+2026-05-13,Zobo Bottle,22,0.0
+2026-05-13,Fresh Yoghurt Bottle,19,2.0
+2026-05-13,Bottled Water,43,0.0
+2026-05-13,Soft Drink,37,0.0
+2026-05-14,Agege Bread,63,6.0
+2026-05-14,Sliced Sandwich Bread,42,9.0
+2026-05-14,Coconut Bread,29,10.0
+2026-05-14,Meat Pie,63,4.0
+2026-05-14,Chicken Pie,50,15.0
+2026-05-14,Sausage Roll,53,14.0
+2026-05-14,Doughnut,40,12.0
+2026-05-14,Egg Roll,28,
+2026-05-14,Fish Roll,33,11.0
+2026-05-14,Puff Puff Pack,31,5.0
+2026-05-14,Chin Chin Pack,11,0.0
+2026-05-14,Birthday Cake 8in,2,0.0
+2026-05-14,Cream Cake Slice,16,6.0
+2026-05-14,Cupcake,27,1.0
+2026-05-14,Banana Cake Loaf,6,1.0
+2026-05-14,Red Velvet Slice,12,6.0
+2026-05-14,Zobo Bottle,25,
+2026-05-14,Fresh Yoghurt Bottle,17,0.0
+2026-05-14,Bottled Water,28,0.0
+2026-05-14,Soft Drink,38,0.0
+2026-05-15,Agege Bread,62,7.0
+2026-05-15,Sliced Sandwich Bread,42,0.0
+2026-05-15,Coconut Bread,30,0.0
+2026-05-15,Meat Pie,69,0.0
+2026-05-15,Chicken Pie,65,
+2026-05-15,Sausage Roll,51,0.0
+2026-05-15,Doughnut,62,15.0
+2026-05-15,Egg Roll,35,8.0
+2026-05-15,Fish Roll,35,0.0
+2026-05-15,Puff Puff Pack,32,1.0
+2026-05-15,Chin Chin Pack,25,0.0
+2026-05-15,Birthday Cake 8in,3,0.0
+2026-05-15,Cream Cake Slice,18,
+2026-05-15,Cupcake,32,0.0
+2026-05-15,Banana Cake Loaf,9,
+2026-05-15,Red Velvet Slice,13,1.0
+2026-05-15,Zobo Bottle,20,0.0
+2026-05-15,Fresh Yoghurt Bottle,20,0.0
+2026-05-15,Bottled Water,37,0.0
+2026-05-15,Soft Drink,36,0.0
+2026-05-16,Agege Bread,62,4.0
+2026-05-16,Sliced Sandwich Bread,50,5.0
+2026-05-16,Coconut Bread,35,
+2026-05-16,Meat Pie,81,16.0
+2026-05-16,Chicken Pie,66,25.0
+2026-05-16,Sausage Roll,59,4.0
+2026-05-16,Doughnut,58,0.0
+2026-05-16,Egg Roll,31,3.0
+2026-05-16,Fish Roll,35,0.0
+2026-05-16,Puff Puff Pack,48,4.0
+2026-05-16,Chin Chin Pack,35,0.0
+2026-05-16,Birthday Cake 8in,3,0.0
+2026-05-16,Cream Cake Slice,36,20.0
+2026-05-16,Cupcake,49,0.0
+2026-05-16,Banana Cake Loaf,14,7.0
+2026-05-16,Red Velvet Slice,25,8.0
+2026-05-16,Zobo Bottle,30,0.0
+2026-05-16,Fresh Yoghurt Bottle,23,7.0
+2026-05-16,Bottled Water,52,0.0
+2026-05-16,Soft Drink,42,0.0
+2026-05-17,Agege Bread,39,1.0
+2026-05-17,Sliced Sandwich Bread,29,6.0
+2026-05-17,Coconut Bread,23,
+2026-05-17,Meat Pie,59,1.0
+2026-05-17,Chicken Pie,39,12.0
+2026-05-17,Sausage Roll,45,0.0
+2026-05-17,Doughnut,44,15.0
+2026-05-17,Egg Roll,29,5.0
+2026-05-17,Fish Roll,30,11.0
+2026-05-17,Puff Puff Pack,27,3.0
+2026-05-17,Chin Chin Pack,23,0.0
+2026-05-17,Birthday Cake 8in,3,0.0
+2026-05-17,Cream Cake Slice,20,2.0
+2026-05-17,Cupcake,38,0.0
+2026-05-17,Banana Cake Loaf,14,1.0
+2026-05-17,Red Velvet Slice,15,
+2026-05-17,Zobo Bottle,30,3.0
+2026-05-17,Fresh Yoghurt Bottle,21,7.0
+2026-05-17,Bottled Water,41,0.0
+2026-05-17,Soft Drink,51,0.0
+2026-05-18,Agege Bread,75,15.0
+2026-05-18,Sliced Sandwich Bread,47,13.0
+2026-05-18,Coconut Bread,30,13.0
+2026-05-18,Meat Pie,69,18.0
+2026-05-18,Chicken Pie,57,11.0
+2026-05-18,Sausage Roll,48,18.0
+2026-05-18,Doughnut,46,0.0
+2026-05-18,Egg Roll,26,
+2026-05-18,Fish Roll,35,11.0
+2026-05-18,Puff Puff Pack,33,1.0
+2026-05-18,Chin Chin Pack,16,0.0
+2026-05-18,Birthday Cake 8in,0,0.0
+2026-05-18,Cream Cake Slice,9,3.0
+2026-05-18,Cupcake,20,4.0
+2026-05-18,Banana Cake Loaf,6,0.0
+2026-05-18,Red Velvet Slice,8,0.0
+2026-05-18,Zobo Bottle,21,5.0
+2026-05-18,Fresh Yoghurt Bottle,17,
+2026-05-18,Bottled Water,38,0.0
+2026-05-18,Soft Drink,26,0.0
+2026-05-19,Agege Bread,69,25.0
+2026-05-19,Sliced Sandwich Bread,37,1.0
+2026-05-19,Coconut Bread,26,11.0
+2026-05-19,Meat Pie,60,
+2026-05-19,Chicken Pie,54,10.0
+2026-05-19,Sausage Roll,48,0.0
+2026-05-19,Doughnut,43,2.0
+2026-05-19,Egg Roll,35,
+2026-05-19,Fish Roll,34,3.0
+2026-05-19,Puff Puff Pack,30,2.0
+2026-05-19,Chin Chin Pack,17,0.0
+2026-05-19,Birthday Cake 8in,1,0.0
+2026-05-19,Cream Cake Slice,9,2.0
+2026-05-19,Cupcake,22,3.0
+2026-05-19,Banana Cake Loaf,5,1.0
+2026-05-19,Red Velvet Slice,9,0.0
+2026-05-19,Zobo Bottle,25,12.0
+2026-05-19,Fresh Yoghurt Bottle,18,4.0
+2026-05-19,Bottled Water,42,0.0
+2026-05-19,Soft Drink,34,0.0
+2026-05-20,Agege Bread,60,14.0
+2026-05-20,Sliced Sandwich Bread,42,6.0
+2026-05-20,Coconut Bread,29,10.0
+2026-05-20,Meat Pie,61,12.0
+2026-05-20,Chicken Pie,71,34.0
+2026-05-20,Sausage Roll,47,0.0
+2026-05-20,Doughnut,40,3.0
+2026-05-20,Egg Roll,34,0.0
+2026-05-20,Fish Roll,44,15.0
+2026-05-20,Puff Puff Pack,33,1.0
+2026-05-20,Chin Chin Pack,25,0.0
+2026-05-20,Birthday Cake 8in,2,0.0
+2026-05-20,Cream Cake Slice,13,
+2026-05-20,Cupcake,22,0.0
+2026-05-20,Banana Cake Loaf,5,0.0
+2026-05-20,Red Velvet Slice,11,2.0
+2026-05-20,Zobo Bottle,23,
+2026-05-20,Fresh Yoghurt Bottle,17,1.0
+2026-05-20,Bottled Water,41,0.0
+2026-05-20,Soft Drink,32,0.0
+2026-05-21,Agege Bread,64,15.0
+2026-05-21,Sliced Sandwich Bread,46,14.0
+2026-05-21,Coconut Bread,31,11.0
+2026-05-21,Meat Pie,60,8.0
+2026-05-21,Chicken Pie,66,38.0
+2026-05-21,Sausage Roll,57,11.0
+2026-05-21,Doughnut,43,23.0
+2026-05-21,Egg Roll,31,
+2026-05-21,Fish Roll,39,5.0
+2026-05-21,Puff Puff Pack,31,0.0
+2026-05-21,Chin Chin Pack,23,0.0
+2026-05-21,Birthday Cake 8in,2,0.0
+2026-05-21,Cream Cake Slice,17,5.0
+2026-05-21,Cupcake,29,5.0
+2026-05-21,Banana Cake Loaf,6,0.0
+2026-05-21,Red Velvet Slice,11,10.0
+2026-05-21,Zobo Bottle,29,10.0
+2026-05-21,Fresh Yoghurt Bottle,20,7.0
+2026-05-21,Bottled Water,55,0.0
+2026-05-21,Soft Drink,31,0.0
+2026-05-22,Agege Bread,66,13.0
+2026-05-22,Sliced Sandwich Bread,50,16.0
+2026-05-22,Coconut Bread,40,14.0
+2026-05-22,Meat Pie,85,24.0
+2026-05-22,Chicken Pie,65,23.0
+2026-05-22,Sausage Roll,61,18.0
+2026-05-22,Doughnut,57,
+2026-05-22,Egg Roll,36,11.0
+2026-05-22,Fish Roll,42,
+2026-05-22,Puff Puff Pack,35,0.0
+2026-05-22,Chin Chin Pack,28,0.0
+2026-05-22,Birthday Cake 8in,0,0.0
+2026-05-22,Cream Cake Slice,20,2.0
+2026-05-22,Cupcake,36,4.0
+2026-05-22,Banana Cake Loaf,9,1.0
+2026-05-22,Red Velvet Slice,16,8.0
+2026-05-22,Zobo Bottle,24,0.0
+2026-05-22,Fresh Yoghurt Bottle,20,0.0
+2026-05-22,Bottled Water,37,0.0
+2026-05-22,Soft Drink,43,0.0
+2026-05-23,Agege Bread,65,8.0
+2026-05-23,Sliced Sandwich Bread,50,
+2026-05-23,Coconut Bread,28,9.0
+2026-05-23,Meat Pie,78,13.0
+2026-05-23,Chicken Pie,65,30.0
+2026-05-23,Sausage Roll,67,26.0
+2026-05-23,Doughnut,61,0.0
+2026-05-23,Egg Roll,37,
+2026-05-23,Fish Roll,38,11.0
+2026-05-23,Puff Puff Pack,39,0.0
+2026-05-23,Chin Chin Pack,27,0.0
+2026-05-23,Birthday Cake 8in,2,0.0
+2026-05-23,Cream Cake Slice,27,0.0
+2026-05-23,Cupcake,48,0.0
+2026-05-23,Banana Cake Loaf,12,1.0
+2026-05-23,Red Velvet Slice,27,6.0
+2026-05-23,Zobo Bottle,35,0.0
+2026-05-23,Fresh Yoghurt Bottle,28,8.0
+2026-05-23,Bottled Water,31,0.0
+2026-05-23,Soft Drink,53,0.0
+2026-05-24,Agege Bread,44,0.0
+2026-05-24,Sliced Sandwich Bread,33,10.0
+2026-05-24,Coconut Bread,22,15.0
+2026-05-24,Meat Pie,54,0.0
+2026-05-24,Chicken Pie,56,28.0
+2026-05-24,Sausage Roll,49,10.0
+2026-05-24,Doughnut,41,2.0
+2026-05-24,Egg Roll,28,0.0
+2026-05-24,Fish Roll,30,1.0
+2026-05-24,Puff Puff Pack,30,0.0
+2026-05-24,Chin Chin Pack,20,0.0
+2026-05-24,Birthday Cake 8in,4,0.0
+2026-05-24,Cream Cake Slice,22,7.0
+2026-05-24,Cupcake,42,6.0
+2026-05-24,Banana Cake Loaf,10,6.0
+2026-05-24,Red Velvet Slice,19,
+2026-05-24,Zobo Bottle,26,0.0
+2026-05-24,Fresh Yoghurt Bottle,22,7.0
+2026-05-24,Bottled Water,51,0.0
+2026-05-24,Soft Drink,36,0.0
+2026-05-25,Agege Bread,64,2.0
+2026-05-25,Sliced Sandwich Bread,48,9.0
+2026-05-25,Coconut Bread,37,8.0
+2026-05-25,Meat Pie,60,0.0
+2026-05-25,Chicken Pie,57,
+2026-05-25,Sausage Roll,44,0.0
+2026-05-25,Doughnut,45,0.0
+2026-05-25,Egg Roll,23,0.0
+2026-05-25,Fish Roll,37,
+2026-05-25,Puff Puff Pack,35,
+2026-05-25,Chin Chin Pack,32,0.0
+2026-05-25,Birthday Cake 8in,2,0.0
+2026-05-25,Cream Cake Slice,12,2.0
+2026-05-25,Cupcake,18,0.0
+2026-05-25,Banana Cake Loaf,5,3.0
+2026-05-25,Red Velvet Slice,8,4.0
+2026-05-25,Zobo Bottle,19,0.0
+2026-05-25,Fresh Yoghurt Bottle,18,8.0
+2026-05-25,Bottled Water,39,0.0
+2026-05-25,Soft Drink,38,0.0
+2026-05-26,Agege Bread,77,26.0
+2026-05-26,Sliced Sandwich Bread,42,0.0
+2026-05-26,Coconut Bread,28,12.0
+2026-05-26,Meat Pie,55,0.0
+2026-05-26,Chicken Pie,48,10.0
+2026-05-26,Sausage Roll,49,3.0
+2026-05-26,Doughnut,37,0.0
+2026-05-26,Egg Roll,30,0.0
+2026-05-26,Fish Roll,31,
+2026-05-26,Puff Puff Pack,35,6.0
+2026-05-26,Chin Chin Pack,18,0.0
+2026-05-26,Birthday Cake 8in,2,0.0
+2026-05-26,Cream Cake Slice,11,4.0
+2026-05-26,Cupcake,21,0.0
+2026-05-26,Banana Cake Loaf,6,
+2026-05-26,Red Velvet Slice,8,0.0
+2026-05-26,Zobo Bottle,20,0.0
+2026-05-26,Fresh Yoghurt Bottle,19,0.0
+2026-05-26,Bottled Water,43,0.0
+2026-05-26,Soft Drink,34,0.0
+2026-05-27,Agege Bread,62,2.0
+2026-05-27,Sliced Sandwich Bread,43,4.0
+2026-05-27,Coconut Bread,28,4.0
+2026-05-27,Meat Pie,69,0.0
+2026-05-27,Chicken Pie,48,4.0
+2026-05-27,Sausage Roll,49,0.0
+2026-05-27,Doughnut,48,2.0
+2026-05-27,Egg Roll,31,1.0
+2026-05-27,Fish Roll,24,0.0
+2026-05-27,Puff Puff Pack,27,0.0
+2026-05-27,Chin Chin Pack,29,0.0
+2026-05-27,Birthday Cake 8in,2,0.0
+2026-05-27,Cream Cake Slice,12,1.0
+2026-05-27,Cupcake,21,
+2026-05-27,Banana Cake Loaf,5,
+2026-05-27,Red Velvet Slice,8,0.0
+2026-05-27,Zobo Bottle,26,0.0
+2026-05-27,Fresh Yoghurt Bottle,17,0.0
+2026-05-27,Bottled Water,61,0.0
+2026-05-27,Soft Drink,53,0.0
+2026-05-28,Agege Bread,59,
+2026-05-28,Sliced Sandwich Bread,43,0.0
+2026-05-28,Coconut Bread,28,4.0
+2026-05-28,Meat Pie,63,0.0
+2026-05-28,Chicken Pie,61,22.0
+2026-05-28,Sausage Roll,52,13.0
+2026-05-28,Doughnut,41,0.0
+2026-05-28,Egg Roll,29,1.0
+2026-05-28,Fish Roll,34,8.0
+2026-05-28,Puff Puff Pack,29,0.0
+2026-05-28,Chin Chin Pack,26,0.0
+2026-05-28,Birthday Cake 8in,1,0.0
+2026-05-28,Cream Cake Slice,13,3.0
+2026-05-28,Cupcake,24,0.0
+2026-05-28,Banana Cake Loaf,6,3.0
+2026-05-28,Red Velvet Slice,10,0.0
+2026-05-28,Zobo Bottle,24,2.0
+2026-05-28,Fresh Yoghurt Bottle,22,0.0
+2026-05-28,Bottled Water,47,0.0
+2026-05-28,Soft Drink,38,0.0
+2026-05-29,Agege Bread,55,0.0
+2026-05-29,Sliced Sandwich Bread,49,0.0
+2026-05-29,Coconut Bread,36,23.0
+2026-05-29,Meat Pie,75,
+2026-05-29,Chicken Pie,67,6.0
+2026-05-29,Sausage Roll,63,0.0
+2026-05-29,Doughnut,50,0.0
+2026-05-29,Egg Roll,37,6.0
+2026-05-29,Fish Roll,41,0.0
+2026-05-29,Puff Puff Pack,40,0.0
+2026-05-29,Chin Chin Pack,30,0.0
+2026-05-29,Birthday Cake 8in,2,0.0
+2026-05-29,Cream Cake Slice,19,1.0
+2026-05-29,Cupcake,35,0.0
+2026-05-29,Banana Cake Loaf,10,2.0
+2026-05-29,Red Velvet Slice,14,4.0
+2026-05-29,Zobo Bottle,33,4.0
+2026-05-29,Fresh Yoghurt Bottle,20,0.0
+2026-05-29,Bottled Water,47,0.0
+2026-05-29,Soft Drink,47,0.0
+2026-05-30,Agege Bread,68,0.0
+2026-05-30,Sliced Sandwich Bread,51,
+2026-05-30,Coconut Bread,35,10.0
+2026-05-30,Meat Pie,75,0.0
+2026-05-30,Chicken Pie,74,
+2026-05-30,Sausage Roll,66,1.0
+2026-05-30,Doughnut,57,1.0
+2026-05-30,Egg Roll,37,0.0
+2026-05-30,Fish Roll,39,0.0
+2026-05-30,Puff Puff Pack,35,0.0
+2026-05-30,Chin Chin Pack,27,0.0
+2026-05-30,Birthday Cake 8in,4,0.0
+2026-05-30,Cream Cake Slice,27,1.0
+2026-05-30,Cupcake,52,4.0
+2026-05-30,Banana Cake Loaf,15,0.0
+2026-05-30,Red Velvet Slice,23,3.0
+2026-05-30,Zobo Bottle,25,0.0
+2026-05-30,Fresh Yoghurt Bottle,22,3.0
+2026-05-30,Bottled Water,61,0.0
+2026-05-30,Soft Drink,55,0.0
+2026-05-31,Agege Bread,38,0.0
+2026-05-31,Sliced Sandwich Bread,34,0.0
+2026-05-31,Coconut Bread,25,3.0
+2026-05-31,Meat Pie,66,0.0
+2026-05-31,Chicken Pie,46,12.0
+2026-05-31,Sausage Roll,45,0.0
+2026-05-31,Doughnut,50,16.0
+2026-05-31,Egg Roll,29,0.0
+2026-05-31,Fish Roll,33,0.0
+2026-05-31,Puff Puff Pack,29,0.0
+2026-05-31,Chin Chin Pack,20,0.0
+2026-05-31,Birthday Cake 8in,6,0.0
+2026-05-31,Cream Cake Slice,23,2.0
+2026-05-31,Cupcake,36,0.0
+2026-05-31,Banana Cake Loaf,12,0.0
+2026-05-31,Red Velvet Slice,18,3.0
+2026-05-31,Zobo Bottle,26,0.0
+2026-05-31,Fresh Yoghurt Bottle,21,5.0
+2026-05-31,Bottled Water,50,0.0
+2026-05-31,Soft Drink,66,0.0
+2026-06-01,Agege Bread,62,10.0
+2026-06-01,Sliced Sandwich Bread,51,
+2026-06-01,Coconut Bread,34,17.0
+2026-06-01,Meat Pie,66,14.0
+2026-06-01,Chicken Pie,58,35.0
+2026-06-01,Sausage Roll,44,0.0
+2026-06-01,Doughnut,43,8.0
+2026-06-01,Egg Roll,31,12.0
+2026-06-01,Fish Roll,28,0.0
+2026-06-01,Puff Puff Pack,27,0.0
+2026-06-01,Chin Chin Pack,15,0.0
+2026-06-01,Birthday Cake 8in,1,0.0
+2026-06-01,Cream Cake Slice,12,6.0
+2026-06-01,Cupcake,19,0.0
+2026-06-01,Banana Cake Loaf,5,3.0
+2026-06-01,Red Velvet Slice,8,1.0
+2026-06-01,Zobo Bottle,19,0.0
+2026-06-01,Fresh Yoghurt Bottle,15,7.0
+2026-06-01,Bottled Water,40,0.0
+2026-06-01,Soft Drink,45,0.0
+2026-06-02,Agege Bread,57,0.0
+2026-06-02,Sliced Sandwich Bread,39,0.0
+2026-06-02,Coconut Bread,29,6.0
+2026-06-02,Meat Pie,62,
+2026-06-02,Chicken Pie,50,10.0
+2026-06-02,Sausage Roll,41,10.0
+2026-06-02,Doughnut,47,0.0
+2026-06-02,Egg Roll,27,0.0
+2026-06-02,Fish Roll,34,4.0
+2026-06-02,Puff Puff Pack,28,0.0
+2026-06-02,Chin Chin Pack,25,0.0
+2026-06-02,Birthday Cake 8in,0,0.0
+2026-06-02,Cream Cake Slice,10,
+2026-06-02,Cupcake,21,4.0
+2026-06-02,Banana Cake Loaf,5,0.0
+2026-06-02,Red Velvet Slice,7,0.0
+2026-06-02,Zobo Bottle,24,5.0
+2026-06-02,Fresh Yoghurt Bottle,15,3.0
+2026-06-02,Bottled Water,53,0.0
+2026-06-02,Soft Drink,31,0.0
+2026-06-03,Agege Bread,52,0.0
+2026-06-03,Sliced Sandwich Bread,45,0.0
+2026-06-03,Coconut Bread,33,13.0
+2026-06-03,Meat Pie,72,4.0
+2026-06-03,Chicken Pie,59,17.0
+2026-06-03,Sausage Roll,48,1.0
+2026-06-03,Doughnut,53,7.0
+2026-06-03,Egg Roll,32,7.0
+2026-06-03,Fish Roll,29,0.0
+2026-06-03,Puff Puff Pack,34,5.0
+2026-06-03,Chin Chin Pack,20,0.0
+2026-06-03,Birthday Cake 8in,2,0.0
+2026-06-03,Cream Cake Slice,11,0.0
+2026-06-03,Cupcake,25,6.0
+2026-06-03,Banana Cake Loaf,6,0.0
+2026-06-03,Red Velvet Slice,10,0.0
+2026-06-03,Zobo Bottle,23,0.0
+2026-06-03,Fresh Yoghurt Bottle,17,2.0
+2026-06-03,Bottled Water,48,0.0
+2026-06-03,Soft Drink,39,0.0
+2026-06-04,Agege Bread,63,9.0
+2026-06-04,Sliced Sandwich Bread,39,0.0
+2026-06-04,Coconut Bread,33,
+2026-06-04,Meat Pie,69,13.0
+2026-06-04,Chicken Pie,50,8.0
+2026-06-04,Sausage Roll,52,20.0
+2026-06-04,Doughnut,46,0.0
+2026-06-04,Egg Roll,25,0.0
+2026-06-04,Fish Roll,31,
+2026-06-04,Puff Puff Pack,37,
+2026-06-04,Chin Chin Pack,23,0.0
+2026-06-04,Birthday Cake 8in,1,0.0
+2026-06-04,Cream Cake Slice,13,2.0
+2026-06-04,Cupcake,26,0.0
+2026-06-04,Banana Cake Loaf,6,4.0
+2026-06-04,Red Velvet Slice,9,0.0
+2026-06-04,Zobo Bottle,23,0.0
+2026-06-04,Fresh Yoghurt Bottle,17,6.0
+2026-06-04,Bottled Water,39,0.0
+2026-06-04,Soft Drink,33,0.0
+2026-06-05,Agege Bread,68,0.0
+2026-06-05,Sliced Sandwich Bread,44,0.0
+2026-06-05,Coconut Bread,29,10.0
+2026-06-05,Meat Pie,72,0.0
+2026-06-05,Chicken Pie,61,32.0
+2026-06-05,Sausage Roll,67,8.0
+2026-06-05,Doughnut,54,16.0
+2026-06-05,Egg Roll,31,0.0
+2026-06-05,Fish Roll,37,0.0
+2026-06-05,Puff Puff Pack,44,0.0
+2026-06-05,Chin Chin Pack,24,0.0
+2026-06-05,Birthday Cake 8in,1,0.0
+2026-06-05,Cream Cake Slice,20,
+2026-06-05,Cupcake,34,4.0
+2026-06-05,Banana Cake Loaf,9,4.0
+2026-06-05,Red Velvet Slice,12,0.0
+2026-06-05,Zobo Bottle,26,0.0
+2026-06-05,Fresh Yoghurt Bottle,21,4.0
+2026-06-05,Bottled Water,40,0.0
+2026-06-05,Soft Drink,31,0.0
+2026-06-06,Agege Bread,60,0.0
+2026-06-06,Sliced Sandwich Bread,42,
+2026-06-06,Coconut Bread,32,9.0
+2026-06-06,Meat Pie,91,
+2026-06-06,Chicken Pie,66,27.0
+2026-06-06,Sausage Roll,56,0.0
+2026-06-06,Doughnut,56,
+2026-06-06,Egg Roll,35,10.0
+2026-06-06,Fish Roll,47,8.0
+2026-06-06,Puff Puff Pack,35,0.0
+2026-06-06,Chin Chin Pack,31,0.0
+2026-06-06,Birthday Cake 8in,1,0.0
+2026-06-06,Cream Cake Slice,28,6.0
+2026-06-06,Cupcake,45,0.0
+2026-06-06,Banana Cake Loaf,10,2.0
+2026-06-06,Red Velvet Slice,24,9.0
+2026-06-06,Zobo Bottle,32,0.0
+2026-06-06,Fresh Yoghurt Bottle,26,3.0
+2026-06-06,Bottled Water,67,0.0
+2026-06-06,Soft Drink,47,0.0
+2026-06-07,Agege Bread,48,17.0
+2026-06-07,Sliced Sandwich Bread,42,1.0
+2026-06-07,Coconut Bread,28,15.0
+2026-06-07,Meat Pie,55,0.0
+2026-06-07,Chicken Pie,49,22.0
+2026-06-07,Sausage Roll,45,5.0
+2026-06-07,Doughnut,38,0.0
+2026-06-07,Egg Roll,27,8.0
+2026-06-07,Fish Roll,33,5.0
+2026-06-07,Puff Puff Pack,33,0.0
+2026-06-07,Chin Chin Pack,19,0.0
+2026-06-07,Birthday Cake 8in,1,0.0
+2026-06-07,Cream Cake Slice,20,0.0
+2026-06-07,Cupcake,51,8.0
+2026-06-07,Banana Cake Loaf,10,
+2026-06-07,Red Velvet Slice,18,6.0
+2026-06-07,Zobo Bottle,32,14.0
+2026-06-07,Fresh Yoghurt Bottle,25,
+2026-06-07,Bottled Water,54,0.0
+2026-06-07,Soft Drink,40,0.0
+2026-06-08,Agege Bread,67,8.0
+2026-06-08,Sliced Sandwich Bread,46,5.0
+2026-06-08,Coconut Bread,33,18.0
+2026-06-08,Meat Pie,61,7.0
+2026-06-08,Chicken Pie,60,22.0
+2026-06-08,Sausage Roll,45,0.0
+2026-06-08,Doughnut,47,0.0
+2026-06-08,Egg Roll,28,
+2026-06-08,Fish Roll,27,0.0
+2026-06-08,Puff Puff Pack,31,1.0
+2026-06-08,Chin Chin Pack,19,0.0
+2026-06-08,Birthday Cake 8in,1,0.0
+2026-06-08,Cream Cake Slice,10,4.0
+2026-06-08,Cupcake,22,0.0
+2026-06-08,Banana Cake Loaf,5,0.0
+2026-06-08,Red Velvet Slice,9,3.0
+2026-06-08,Zobo Bottle,22,3.0
+2026-06-08,Fresh Yoghurt Bottle,16,0.0
+2026-06-08,Bottled Water,40,0.0
+2026-06-08,Soft Drink,26,0.0
+2026-06-09,Agege Bread,61,7.0
+2026-06-09,Sliced Sandwich Bread,37,0.0
+2026-06-09,Coconut Bread,28,13.0
+2026-06-09,Meat Pie,78,28.0
+2026-06-09,Chicken Pie,56,20.0
+2026-06-09,Sausage Roll,43,9.0
+2026-06-09,Doughnut,41,9.0
+2026-06-09,Egg Roll,26,8.0
+2026-06-09,Fish Roll,29,1.0
+2026-06-09,Puff Puff Pack,40,1.0
+2026-06-09,Chin Chin Pack,18,0.0
+2026-06-09,Birthday Cake 8in,0,0.0
+2026-06-09,Cream Cake Slice,10,0.0
+2026-06-09,Cupcake,24,
+2026-06-09,Banana Cake Loaf,6,2.0
+2026-06-09,Red Velvet Slice,8,0.0
+2026-06-09,Zobo Bottle,23,0.0
+2026-06-09,Fresh Yoghurt Bottle,12,4.0
+2026-06-09,Bottled Water,24,0.0
+2026-06-09,Soft Drink,36,0.0
+2026-06-10,Agege Bread,65,11.0
+2026-06-10,Sliced Sandwich Bread,51,10.0
+2026-06-10,Coconut Bread,31,12.0
+2026-06-10,Meat Pie,63,2.0
+2026-06-10,Chicken Pie,54,24.0
+2026-06-10,Sausage Roll,49,15.0
+2026-06-10,Doughnut,45,6.0
+2026-06-10,Egg Roll,30,5.0
+2026-06-10,Fish Roll,33,0.0
+2026-06-10,Puff Puff Pack,30,0.0
+2026-06-10,Chin Chin Pack,21,0.0
+2026-06-10,Birthday Cake 8in,1,0.0
+2026-06-10,Cream Cake Slice,12,7.0
+2026-06-10,Cupcake,24,9.0
+2026-06-10,Banana Cake Loaf,6,1.0
+2026-06-10,Red Velvet Slice,10,2.0
+2026-06-10,Zobo Bottle,29,4.0
+2026-06-10,Fresh Yoghurt Bottle,22,9.0
+2026-06-10,Bottled Water,36,0.0
+2026-06-10,Soft Drink,45,0.0
+2026-06-11,Agege Bread,60,9.0
+2026-06-11,Sliced Sandwich Bread,44,4.0
+2026-06-11,Coconut Bread,34,20.0
+2026-06-11,Meat Pie,71,0.0
+2026-06-11,Chicken Pie,61,19.0
+2026-06-11,Sausage Roll,53,5.0
+2026-06-11,Doughnut,51,14.0
+2026-06-11,Egg Roll,31,5.0
+2026-06-11,Fish Roll,33,2.0
+2026-06-11,Puff Puff Pack,26,0.0
+2026-06-11,Chin Chin Pack,18,0.0
+2026-06-11,Birthday Cake 8in,3,0.0
+2026-06-11,Cream Cake Slice,14,4.0
+2026-06-11,Cupcake,24,0.0
+2026-06-11,Banana Cake Loaf,7,0.0
+2026-06-11,Red Velvet Slice,13,2.0
+2026-06-11,Zobo Bottle,27,5.0
+2026-06-11,Fresh Yoghurt Bottle,17,3.0
+2026-06-11,Bottled Water,42,0.0
+2026-06-11,Soft Drink,34,0.0
+2026-06-12,Agege Bread,62,3.0
+2026-06-12,Sliced Sandwich Bread,50,6.0
+2026-06-12,Coconut Bread,40,31.0
+2026-06-12,Meat Pie,82,0.0
+2026-06-12,Chicken Pie,56,21.0
+2026-06-12,Sausage Roll,58,0.0
+2026-06-12,Doughnut,53,0.0
+2026-06-12,Egg Roll,38,0.0
+2026-06-12,Fish Roll,38,0.0
+2026-06-12,Puff Puff Pack,35,0.0
+2026-06-12,Chin Chin Pack,34,0.0
+2026-06-12,Birthday Cake 8in,5,0.0
+2026-06-12,Cream Cake Slice,20,0.0
+2026-06-12,Cupcake,30,0.0
+2026-06-12,Banana Cake Loaf,7,1.0
+2026-06-12,Red Velvet Slice,14,0.0
+2026-06-12,Zobo Bottle,27,1.0
+2026-06-12,Fresh Yoghurt Bottle,21,0.0
+2026-06-12,Bottled Water,65,0.0
+2026-06-12,Soft Drink,46,0.0
+2026-06-13,Agege Bread,60,6.0
+2026-06-13,Sliced Sandwich Bread,51,11.0
+2026-06-13,Coconut Bread,40,25.0
+2026-06-13,Meat Pie,71,0.0
+2026-06-13,Chicken Pie,60,10.0
+2026-06-13,Sausage Roll,60,6.0
+2026-06-13,Doughnut,56,0.0
+2026-06-13,Egg Roll,37,
+2026-06-13,Fish Roll,41,0.0
+2026-06-13,Puff Puff Pack,39,8.0
+2026-06-13,Chin Chin Pack,21,0.0
+2026-06-13,Birthday Cake 8in,2,0.0
+2026-06-13,Cream Cake Slice,25,7.0
+2026-06-13,Cupcake,50,0.0
+2026-06-13,Banana Cake Loaf,14,0.0
+2026-06-13,Red Velvet Slice,21,9.0
+2026-06-13,Zobo Bottle,27,
+2026-06-13,Fresh Yoghurt Bottle,25,5.0
+2026-06-13,Bottled Water,52,0.0
+2026-06-13,Soft Drink,39,0.0
+2026-06-14,Agege Bread,47,0.0
+2026-06-14,Sliced Sandwich Bread,35,9.0
+2026-06-14,Coconut Bread,27,18.0
+2026-06-14,Meat Pie,62,0.0
+2026-06-14,Chicken Pie,48,
+2026-06-14,Sausage Roll,40,9.0
+2026-06-14,Doughnut,49,15.0
+2026-06-14,Egg Roll,24,4.0
+2026-06-14,Fish Roll,28,0.0
+2026-06-14,Puff Puff Pack,27,0.0
+2026-06-14,Chin Chin Pack,17,0.0
+2026-06-14,Birthday Cake 8in,3,0.0
+2026-06-14,Cream Cake Slice,22,9.0
+2026-06-14,Cupcake,47,0.0
+2026-06-14,Banana Cake Loaf,12,0.0
+2026-06-14,Red Velvet Slice,17,5.0
+2026-06-14,Zobo Bottle,27,9.0
+2026-06-14,Fresh Yoghurt Bottle,22,0.0
+2026-06-14,Bottled Water,46,0.0
+2026-06-14,Soft Drink,45,0.0
+2026-06-15,Agege Bread,61,0.0
+2026-06-15,Sliced Sandwich Bread,48,2.0
+2026-06-15,Coconut Bread,32,14.0
+2026-06-15,Meat Pie,55,5.0
+2026-06-15,Chicken Pie,47,29.0
+2026-06-15,Sausage Roll,48,5.0
+2026-06-15,Doughnut,45,18.0
+2026-06-15,Egg Roll,31,11.0
+2026-06-15,Fish Roll,35,9.0
+2026-06-15,Puff Puff Pack,33,2.0
+2026-06-15,Chin Chin Pack,17,0.0
+2026-06-15,Birthday Cake 8in,1,0.0
+2026-06-15,Cream Cake Slice,11,
+2026-06-15,Cupcake,18,2.0
+2026-06-15,Banana Cake Loaf,4,4.0
+2026-06-15,Red Velvet Slice,8,3.0
+2026-06-15,Zobo Bottle,21,8.0
+2026-06-15,Fresh Yoghurt Bottle,17,
+2026-06-15,Bottled Water,34,0.0
+2026-06-15,Soft Drink,31,0.0
+2026-06-16,Agege Bread,50,0.0
+2026-06-16,Sliced Sandwich Bread,45,3.0
+2026-06-16,Coconut Bread,27,8.0
+2026-06-16,Meat Pie,55,0.0
+2026-06-16,Chicken Pie,46,13.0
+2026-06-16,Sausage Roll,52,12.0
+2026-06-16,Doughnut,40,6.0
+2026-06-16,Egg Roll,28,8.0
+2026-06-16,Fish Roll,34,0.0
+2026-06-16,Puff Puff Pack,35,7.0
+2026-06-16,Chin Chin Pack,21,0.0
+2026-06-16,Birthday Cake 8in,0,0.0
+2026-06-16,Cream Cake Slice,12,
+2026-06-16,Cupcake,17,1.0
+2026-06-16,Banana Cake Loaf,5,
+2026-06-16,Red Velvet Slice,9,
+2026-06-16,Zobo Bottle,28,8.0
+2026-06-16,Fresh Yoghurt Bottle,19,2.0
+2026-06-16,Bottled Water,34,0.0
+2026-06-16,Soft Drink,43,0.0
+2026-06-17,Agege Bread,58,18.0
+2026-06-17,Sliced Sandwich Bread,47,5.0
+2026-06-17,Coconut Bread,31,9.0
+2026-06-17,Meat Pie,64,0.0
+2026-06-17,Chicken Pie,57,16.0
+2026-06-17,Sausage Roll,62,25.0
+2026-06-17,Doughnut,45,0.0
+2026-06-17,Egg Roll,30,7.0
+2026-06-17,Fish Roll,32,0.0
+2026-06-17,Puff Puff Pack,29,0.0
+2026-06-17,Chin Chin Pack,19,0.0
+2026-06-17,Birthday Cake 8in,0,0.0
+2026-06-17,Cream Cake Slice,12,0.0
+2026-06-17,Cupcake,22,0.0
+2026-06-17,Banana Cake Loaf,7,0.0
+2026-06-17,Red Velvet Slice,10,0.0
+2026-06-17,Zobo Bottle,25,2.0
+2026-06-17,Fresh Yoghurt Bottle,18,7.0
+2026-06-17,Bottled Water,45,0.0
+2026-06-17,Soft Drink,42,0.0
+2026-06-18,Agege Bread,43,
+2026-06-18,Sliced Sandwich Bread,45,0.0
+2026-06-18,Coconut Bread,34,20.0
+2026-06-18,Meat Pie,60,0.0
+2026-06-18,Chicken Pie,56,25.0
+2026-06-18,Sausage Roll,51,5.0
+2026-06-18,Doughnut,45,2.0
+2026-06-18,Egg Roll,30,5.0
+2026-06-18,Fish Roll,33,7.0
+2026-06-18,Puff Puff Pack,35,1.0
+2026-06-18,Chin Chin Pack,19,0.0
+2026-06-18,Birthday Cake 8in,1,0.0
+2026-06-18,Cream Cake Slice,12,4.0
+2026-06-18,Cupcake,25,7.0
+2026-06-18,Banana Cake Loaf,7,
+2026-06-18,Red Velvet Slice,10,7.0
+2026-06-18,Zobo Bottle,29,2.0
+2026-06-18,Fresh Yoghurt Bottle,15,0.0
+2026-06-18,Bottled Water,40,0.0
+2026-06-18,Soft Drink,34,0.0
+2026-06-19,Agege Bread,68,7.0
+2026-06-19,Sliced Sandwich Bread,57,7.0
+2026-06-19,Coconut Bread,28,9.0
+2026-06-19,Meat Pie,84,6.0
+2026-06-19,Chicken Pie,70,27.0
+2026-06-19,Sausage Roll,49,0.0
+2026-06-19,Doughnut,65,12.0
+2026-06-19,Egg Roll,33,10.0
+2026-06-19,Fish Roll,39,7.0
+2026-06-19,Puff Puff Pack,37,1.0
+2026-06-19,Chin Chin Pack,30,0.0
+2026-06-19,Birthday Cake 8in,3,0.0
+2026-06-19,Cream Cake Slice,15,0.0
+2026-06-19,Cupcake,31,0.0
+2026-06-19,Banana Cake Loaf,9,6.0
+2026-06-19,Red Velvet Slice,14,1.0
+2026-06-19,Zobo Bottle,28,0.0
+2026-06-19,Fresh Yoghurt Bottle,22,6.0
+2026-06-19,Bottled Water,32,0.0
+2026-06-19,Soft Drink,53,0.0
+2026-06-20,Agege Bread,58,0.0
+2026-06-20,Sliced Sandwich Bread,49,10.0
+2026-06-20,Coconut Bread,35,10.0
+2026-06-20,Meat Pie,83,
+2026-06-20,Chicken Pie,81,32.0
+2026-06-20,Sausage Roll,60,
+2026-06-20,Doughnut,57,6.0
+2026-06-20,Egg Roll,32,0.0
+2026-06-20,Fish Roll,37,7.0
+2026-06-20,Puff Puff Pack,43,0.0
+2026-06-20,Chin Chin Pack,25,0.0
+2026-06-20,Birthday Cake 8in,3,0.0
+2026-06-20,Cream Cake Slice,35,
+2026-06-20,Cupcake,58,9.0
+2026-06-20,Banana Cake Loaf,13,0.0
+2026-06-20,Red Velvet Slice,21,0.0
+2026-06-20,Zobo Bottle,30,0.0
+2026-06-20,Fresh Yoghurt Bottle,21,0.0
+2026-06-20,Bottled Water,52,0.0
+2026-06-20,Soft Drink,56,0.0
+2026-06-21,Agege Bread,45,9.0
+2026-06-21,Sliced Sandwich Bread,33,10.0
+2026-06-21,Coconut Bread,20,5.0
+2026-06-21,Meat Pie,68,20.0
+2026-06-21,Chicken Pie,57,26.0
+2026-06-21,Sausage Roll,45,0.0
+2026-06-21,Doughnut,42,5.0
+2026-06-21,Egg Roll,32,20.0
+2026-06-21,Fish Roll,30,4.0
+2026-06-21,Puff Puff Pack,33,7.0
+2026-06-21,Chin Chin Pack,16,0.0
+2026-06-21,Birthday Cake 8in,2,0.0
+2026-06-21,Cream Cake Slice,26,9.0
+2026-06-21,Cupcake,43,11.0
+2026-06-21,Banana Cake Loaf,11,2.0
+2026-06-21,Red Velvet Slice,19,
+2026-06-21,Zobo Bottle,27,6.0
+2026-06-21,Fresh Yoghurt Bottle,19,2.0
+2026-06-21,Bottled Water,40,0.0
+2026-06-21,Soft Drink,41,0.0
+2026-06-22,Agege Bread,58,
+2026-06-22,Sliced Sandwich Bread,44,3.0
+2026-06-22,Coconut Bread,31,12.0
+2026-06-22,Meat Pie,58,0.0
+2026-06-22,Chicken Pie,46,22.0
+2026-06-22,Sausage Roll,48,0.0
+2026-06-22,Doughnut,44,3.0
+2026-06-22,Egg Roll,28,2.0
+2026-06-22,Fish Roll,29,0.0
+2026-06-22,Puff Puff Pack,30,0.0
+2026-06-22,Chin Chin Pack,21,0.0
+2026-06-22,Birthday Cake 8in,2,0.0
+2026-06-22,Cream Cake Slice,12,
+2026-06-22,Cupcake,21,0.0
+2026-06-22,Banana Cake Loaf,5,0.0
+2026-06-22,Red Velvet Slice,8,1.0
+2026-06-22,Zobo Bottle,20,
+2026-06-22,Fresh Yoghurt Bottle,13,0.0
+2026-06-22,Bottled Water,31,0.0
+2026-06-22,Soft Drink,32,0.0
+2026-06-23,Agege Bread,60,0.0
+2026-06-23,Sliced Sandwich Bread,38,0.0
+2026-06-23,Coconut Bread,31,6.0
+2026-06-23,Meat Pie,69,10.0
+2026-06-23,Chicken Pie,61,34.0
+2026-06-23,Sausage Roll,40,0.0
+2026-06-23,Doughnut,43,5.0
+2026-06-23,Egg Roll,26,2.0
+2026-06-23,Fish Roll,29,0.0
+2026-06-23,Puff Puff Pack,30,8.0
+2026-06-23,Chin Chin Pack,18,0.0
+2026-06-23,Birthday Cake 8in,0,0.0
+2026-06-23,Cream Cake Slice,9,0.0
+2026-06-23,Cupcake,17,8.0
+2026-06-23,Banana Cake Loaf,6,2.0
+2026-06-23,Red Velvet Slice,10,4.0
+2026-06-23,Zobo Bottle,24,4.0
+2026-06-23,Fresh Yoghurt Bottle,16,6.0
+2026-06-23,Bottled Water,36,0.0
+2026-06-23,Soft Drink,31,0.0
+2026-06-24,Agege Bread,61,15.0
+2026-06-24,Sliced Sandwich Bread,41,7.0
+2026-06-24,Coconut Bread,36,20.0
+2026-06-24,Meat Pie,61,0.0
+2026-06-24,Chicken Pie,54,
+2026-06-24,Sausage Roll,49,0.0
+2026-06-24,Doughnut,54,0.0
+2026-06-24,Egg Roll,31,0.0
+2026-06-24,Fish Roll,34,1.0
+2026-06-24,Puff Puff Pack,32,0.0
+2026-06-24,Chin Chin Pack,22,0.0
+2026-06-24,Birthday Cake 8in,0,0.0
+2026-06-24,Cream Cake Slice,13,5.0
+2026-06-24,Cupcake,21,3.0
+2026-06-24,Banana Cake Loaf,7,4.0
+2026-06-24,Red Velvet Slice,11,8.0
+2026-06-24,Zobo Bottle,23,9.0
+2026-06-24,Fresh Yoghurt Bottle,19,3.0
+2026-06-24,Bottled Water,34,0.0
+2026-06-24,Soft Drink,36,0.0
+2026-06-25,Agege Bread,63,7.0
+2026-06-25,Sliced Sandwich Bread,50,7.0
+2026-06-25,Coconut Bread,30,12.0
+2026-06-25,Meat Pie,53,0.0
+2026-06-25,Chicken Pie,54,3.0
+2026-06-25,Sausage Roll,47,0.0
+2026-06-25,Doughnut,49,0.0
+2026-06-25,Egg Roll,31,5.0
+2026-06-25,Fish Roll,40,3.0
+2026-06-25,Puff Puff Pack,36,0.0
+2026-06-25,Chin Chin Pack,23,0.0
+2026-06-25,Birthday Cake 8in,1,0.0
+2026-06-25,Cream Cake Slice,16,3.0
+2026-06-25,Cupcake,24,1.0
+2026-06-25,Banana Cake Loaf,7,1.0
+2026-06-25,Red Velvet Slice,12,
+2026-06-25,Zobo Bottle,20,0.0
+2026-06-25,Fresh Yoghurt Bottle,19,1.0
+2026-06-25,Bottled Water,47,0.0
+2026-06-25,Soft Drink,50,0.0
+2026-06-26,Agege Bread,61,0.0
+2026-06-26,Sliced Sandwich Bread,56,6.0
+2026-06-26,Coconut Bread,42,14.0
+2026-06-26,Meat Pie,83,0.0
+2026-06-26,Chicken Pie,69,17.0
+2026-06-26,Sausage Roll,66,19.0
+2026-06-26,Doughnut,57,10.0
+2026-06-26,Egg Roll,32,0.0
+2026-06-26,Fish Roll,37,0.0
+2026-06-26,Puff Puff Pack,40,2.0
+2026-06-26,Chin Chin Pack,20,0.0
+2026-06-26,Birthday Cake 8in,3,0.0
+2026-06-26,Cream Cake Slice,18,0.0
+2026-06-26,Cupcake,37,0.0
+2026-06-26,Banana Cake Loaf,8,1.0
+2026-06-26,Red Velvet Slice,14,4.0
+2026-06-26,Zobo Bottle,26,
+2026-06-26,Fresh Yoghurt Bottle,25,7.0
+2026-06-26,Bottled Water,45,0.0
+2026-06-26,Soft Drink,57,0.0
+2026-06-27,Agege Bread,64,0.0
+2026-06-27,Sliced Sandwich Bread,50,0.0
+2026-06-27,Coconut Bread,37,15.0
+2026-06-27,Meat Pie,84,0.0
+2026-06-27,Chicken Pie,64,9.0
+2026-06-27,Sausage Roll,56,0.0
+2026-06-27,Doughnut,51,0.0
+2026-06-27,Egg Roll,35,0.0
+2026-06-27,Fish Roll,37,0.0
+2026-06-27,Puff Puff Pack,35,0.0
+2026-06-27,Chin Chin Pack,34,0.0
+2026-06-27,Birthday Cake 8in,9,0.0
+2026-06-27,Cream Cake Slice,26,
+2026-06-27,Cupcake,53,0.0
+2026-06-27,Banana Cake Loaf,12,0.0
+2026-06-27,Red Velvet Slice,25,3.0
+2026-06-27,Zobo Bottle,31,0.0
+2026-06-27,Fresh Yoghurt Bottle,22,
+2026-06-27,Bottled Water,59,0.0
+2026-06-27,Soft Drink,46,0.0
+2026-06-28,Agege Bread,45,8.0
+2026-06-28,Sliced Sandwich Bread,41,9.0
+2026-06-28,Coconut Bread,23,
+2026-06-28,Meat Pie,52,0.0
+2026-06-28,Chicken Pie,48,6.0
+2026-06-28,Sausage Roll,46,0.0
+2026-06-28,Doughnut,37,4.0
+2026-06-28,Egg Roll,29,1.0
+2026-06-28,Fish Roll,37,8.0
+2026-06-28,Puff Puff Pack,32,2.0
+2026-06-28,Chin Chin Pack,23,0.0
+2026-06-28,Birthday Cake 8in,3,0.0
+2026-06-28,Cream Cake Slice,25,0.0
+2026-06-28,Cupcake,43,
+2026-06-28,Banana Cake Loaf,11,0.0
+2026-06-28,Red Velvet Slice,19,2.0
+2026-06-28,Zobo Bottle,27,
+2026-06-28,Fresh Yoghurt Bottle,20,0.0
+2026-06-28,Bottled Water,52,0.0
+2026-06-28,Soft Drink,43,0.0
+2026-06-29,Agege Bread,68,3.0
+2026-06-29,Sliced Sandwich Bread,49,
+2026-06-29,Coconut Bread,37,16.0
+2026-06-29,Meat Pie,56,0.0
+2026-06-29,Chicken Pie,57,
+2026-06-29,Sausage Roll,53,
+2026-06-29,Doughnut,51,11.0
+2026-06-29,Egg Roll,26,4.0
+2026-06-29,Fish Roll,31,0.0
+2026-06-29,Puff Puff Pack,29,8.0
+2026-06-29,Chin Chin Pack,24,0.0
+2026-06-29,Birthday Cake 8in,0,0.0
+2026-06-29,Cream Cake Slice,10,
+2026-06-29,Cupcake,18,
+2026-06-29,Banana Cake Loaf,6,0.0
+2026-06-29,Red Velvet Slice,8,0.0
+2026-06-29,Zobo Bottle,22,
+2026-06-29,Fresh Yoghurt Bottle,13,0.0
+2026-06-29,Bottled Water,27,0.0
+2026-06-29,Soft Drink,55,0.0
+2026-06-30,Agege Bread,53,0.0
+2026-06-30,Sliced Sandwich Bread,41,0.0
+2026-06-30,Coconut Bread,27,1.0
+2026-06-30,Meat Pie,71,8.0
+2026-06-30,Chicken Pie,49,4.0
+2026-06-30,Sausage Roll,49,0.0
+2026-06-30,Doughnut,43,0.0
+2026-06-30,Egg Roll,30,5.0
+2026-06-30,Fish Roll,33,0.0
+2026-06-30,Puff Puff Pack,29,3.0
+2026-06-30,Chin Chin Pack,13,0.0
+2026-06-30,Birthday Cake 8in,2,0.0
+2026-06-30,Cream Cake Slice,11,
+2026-06-30,Cupcake,21,
+2026-06-30,Banana Cake Loaf,5,0.0
+2026-06-30,Red Velvet Slice,7,0.0
+2026-06-30,Zobo Bottle,26,9.0
+2026-06-30,Fresh Yoghurt Bottle,18,0.0
+2026-06-30,Bottled Water,47,0.0
+2026-06-30,Soft Drink,29,0.0
+2026-07-01,Agege Bread,64,
+2026-07-01,Sliced Sandwich Bread,46,9.0
+2026-07-01,Coconut Bread,25,
+2026-07-01,Meat Pie,77,15.0
+2026-07-01,Chicken Pie,46,16.0
+2026-07-01,Sausage Roll,56,12.0
+2026-07-01,Doughnut,43,0.0
+2026-07-01,Egg Roll,31,
+2026-07-01,Fish Roll,29,0.0
+2026-07-01,Puff Puff Pack,29,0.0
+2026-07-01,Chin Chin Pack,27,0.0
+2026-07-01,Birthday Cake 8in,3,0.0
+2026-07-01,Cream Cake Slice,12,0.0
+2026-07-01,Cupcake,24,3.0
+2026-07-01,Banana Cake Loaf,6,2.0
+2026-07-01,Red Velvet Slice,10,5.0
+2026-07-01,Zobo Bottle,25,0.0
+2026-07-01,Fresh Yoghurt Bottle,18,3.0
+2026-07-01,Bottled Water,44,0.0
+2026-07-01,Soft Drink,42,0.0
+2026-07-02,Agege Bread,59,0.0
+2026-07-02,Sliced Sandwich Bread,39,1.0
+2026-07-02,Coconut Bread,26,4.0
+2026-07-02,Meat Pie,63,0.0
+2026-07-02,Chicken Pie,43,12.0
+2026-07-02,Sausage Roll,53,5.0
+2026-07-02,Doughnut,45,0.0
+2026-07-02,Egg Roll,29,0.0
+2026-07-02,Fish Roll,36,3.0
+2026-07-02,Puff Puff Pack,37,0.0
+2026-07-02,Chin Chin Pack,16,0.0
+2026-07-02,Birthday Cake 8in,0,0.0
+2026-07-02,Cream Cake Slice,13,5.0
+2026-07-02,Cupcake,27,1.0
+2026-07-02,Banana Cake Loaf,7,4.0
+2026-07-02,Red Velvet Slice,11,
+2026-07-02,Zobo Bottle,25,0.0
+2026-07-02,Fresh Yoghurt Bottle,17,0.0
+2026-07-02,Bottled Water,41,0.0
+2026-07-02,Soft Drink,40,0.0
+2026-07-03,Agege Bread,74,12.0
+2026-07-03,Sliced Sandwich Bread,50,0.0
+2026-07-03,Coconut Bread,34,
+2026-07-03,Meat Pie,80,18.0
+2026-07-03,Chicken Pie,59,13.0
+2026-07-03,Sausage Roll,69,15.0
+2026-07-03,Doughnut,63,5.0
+2026-07-03,Egg Roll,28,
+2026-07-03,Fish Roll,35,0.0
+2026-07-03,Puff Puff Pack,35,0.0
+2026-07-03,Chin Chin Pack,31,0.0
+2026-07-03,Birthday Cake 8in,0,0.0
+2026-07-03,Cream Cake Slice,18,0.0
+2026-07-03,Cupcake,33,3.0
+2026-07-03,Banana Cake Loaf,9,
+2026-07-03,Red Velvet Slice,17,4.0
+2026-07-03,Zobo Bottle,24,0.0
+2026-07-03,Fresh Yoghurt Bottle,20,
+2026-07-03,Bottled Water,49,0.0
+2026-07-03,Soft Drink,40,0.0
+2026-07-04,Agege Bread,72,11.0
+2026-07-04,Sliced Sandwich Bread,48,0.0
+2026-07-04,Coconut Bread,38,
+2026-07-04,Meat Pie,79,0.0
+2026-07-04,Chicken Pie,77,36.0
+2026-07-04,Sausage Roll,59,15.0
+2026-07-04,Doughnut,51,4.0
+2026-07-04,Egg Roll,36,2.0
+2026-07-04,Fish Roll,39,0.0
+2026-07-04,Puff Puff Pack,39,6.0
+2026-07-04,Chin Chin Pack,27,0.0
+2026-07-04,Birthday Cake 8in,1,0.0
+2026-07-04,Cream Cake Slice,26,0.0
+2026-07-04,Cupcake,51,13.0
+2026-07-04,Banana Cake Loaf,13,1.0
+2026-07-04,Red Velvet Slice,26,13.0
+2026-07-04,Zobo Bottle,36,1.0
+2026-07-04,Fresh Yoghurt Bottle,26,4.0
+2026-07-04,Bottled Water,59,0.0
+2026-07-04,Soft Drink,52,0.0
+2026-07-05,Agege Bread,51,13.0
+2026-07-05,Sliced Sandwich Bread,37,0.0
+2026-07-05,Coconut Bread,30,11.0
+2026-07-05,Meat Pie,61,0.0
+2026-07-05,Chicken Pie,51,16.0
+2026-07-05,Sausage Roll,48,15.0
+2026-07-05,Doughnut,45,10.0
+2026-07-05,Egg Roll,22,0.0
+2026-07-05,Fish Roll,30,0.0
+2026-07-05,Puff Puff Pack,28,4.0
+2026-07-05,Chin Chin Pack,18,0.0
+2026-07-05,Birthday Cake 8in,4,0.0
+2026-07-05,Cream Cake Slice,22,0.0
+2026-07-05,Cupcake,49,2.0
+2026-07-05,Banana Cake Loaf,10,2.0
+2026-07-05,Red Velvet Slice,22,3.0
+2026-07-05,Zobo Bottle,33,12.0
+2026-07-05,Fresh Yoghurt Bottle,21,0.0
+2026-07-05,Bottled Water,49,0.0
+2026-07-05,Soft Drink,38,0.0
+2026-07-06,Agege Bread,66,2.0
+2026-07-06,Sliced Sandwich Bread,43,7.0
+2026-07-06,Coconut Bread,33,11.0
+2026-07-06,Meat Pie,59,0.0
+2026-07-06,Chicken Pie,46,
+2026-07-06,Sausage Roll,40,4.0
+2026-07-06,Doughnut,50,26.0
+2026-07-06,Egg Roll,23,
+2026-07-06,Fish Roll,31,0.0
+2026-07-06,Puff Puff Pack,26,0.0
+2026-07-06,Chin Chin Pack,22,0.0
+2026-07-06,Birthday Cake 8in,1,0.0
+2026-07-06,Cream Cake Slice,11,1.0
+2026-07-06,Cupcake,20,
+2026-07-06,Banana Cake Loaf,4,0.0
+2026-07-06,Red Velvet Slice,10,4.0
+2026-07-06,Zobo Bottle,19,0.0
+2026-07-06,Fresh Yoghurt Bottle,19,12.0
+2026-07-06,Bottled Water,31,0.0
+2026-07-06,Soft Drink,45,0.0
+2026-07-07,Agege Bread,65,27.0
+2026-07-07,Sliced Sandwich Bread,45,0.0
+2026-07-07,Coconut Bread,28,3.0
+2026-07-07,Meat Pie,64,10.0
+2026-07-07,Chicken Pie,59,19.0
+2026-07-07,Sausage Roll,59,18.0
+2026-07-07,Doughnut,41,0.0
+2026-07-07,Egg Roll,24,0.0
+2026-07-07,Fish Roll,34,5.0
+2026-07-07,Puff Puff Pack,30,0.0
+2026-07-07,Chin Chin Pack,25,0.0
+2026-07-07,Birthday Cake 8in,0,0.0
+2026-07-07,Cream Cake Slice,11,4.0
+2026-07-07,Cupcake,25,9.0
+2026-07-07,Banana Cake Loaf,5,0.0
+2026-07-07,Red Velvet Slice,9,4.0
+2026-07-07,Zobo Bottle,23,6.0
+2026-07-07,Fresh Yoghurt Bottle,17,3.0
+2026-07-07,Bottled Water,20,0.0
+2026-07-07,Soft Drink,35,0.0
+2026-07-08,Agege Bread,55,2.0
+2026-07-08,Sliced Sandwich Bread,38,
+2026-07-08,Coconut Bread,27,
+2026-07-08,Meat Pie,79,13.0
+2026-07-08,Chicken Pie,59,10.0
+2026-07-08,Sausage Roll,52,0.0
+2026-07-08,Doughnut,49,8.0
+2026-07-08,Egg Roll,27,0.0
+2026-07-08,Fish Roll,29,0.0
+2026-07-08,Puff Puff Pack,27,8.0
+2026-07-08,Chin Chin Pack,18,0.0
+2026-07-08,Birthday Cake 8in,4,0.0
+2026-07-08,Cream Cake Slice,13,4.0
+2026-07-08,Cupcake,29,
+2026-07-08,Banana Cake Loaf,6,3.0
+2026-07-08,Red Velvet Slice,9,7.0
+2026-07-08,Zobo Bottle,23,
+2026-07-08,Fresh Yoghurt Bottle,20,
+2026-07-08,Bottled Water,38,0.0
+2026-07-08,Soft Drink,31,0.0
+2026-07-09,Agege Bread,61,17.0
+2026-07-09,Sliced Sandwich Bread,42,
+2026-07-09,Coconut Bread,28,2.0
+2026-07-09,Meat Pie,62,3.0
+2026-07-09,Chicken Pie,58,6.0
+2026-07-09,Sausage Roll,46,
+2026-07-09,Doughnut,41,0.0
+2026-07-09,Egg Roll,28,0.0
+2026-07-09,Fish Roll,34,11.0
+2026-07-09,Puff Puff Pack,38,16.0
+2026-07-09,Chin Chin Pack,19,0.0
+2026-07-09,Birthday Cake 8in,0,0.0
+2026-07-09,Cream Cake Slice,14,8.0
+2026-07-09,Cupcake,24,0.0
+2026-07-09,Banana Cake Loaf,9,3.0
+2026-07-09,Red Velvet Slice,10,1.0
+2026-07-09,Zobo Bottle,25,1.0
+2026-07-09,Fresh Yoghurt Bottle,19,8.0
+2026-07-09,Bottled Water,49,0.0
+2026-07-09,Soft Drink,32,0.0
+2026-07-10,Agege Bread,57,2.0
+2026-07-10,Sliced Sandwich Bread,52,3.0
+2026-07-10,Coconut Bread,34,18.0
+2026-07-10,Meat Pie,78,17.0
+2026-07-10,Chicken Pie,52,6.0
+2026-07-10,Sausage Roll,55,1.0
+2026-07-10,Doughnut,53,0.0
+2026-07-10,Egg Roll,37,0.0
+2026-07-10,Fish Roll,39,6.0
+2026-07-10,Puff Puff Pack,37,0.0
+2026-07-10,Chin Chin Pack,22,0.0
+2026-07-10,Birthday Cake 8in,3,0.0
+2026-07-10,Cream Cake Slice,20,8.0
+2026-07-10,Cupcake,35,
+2026-07-10,Banana Cake Loaf,8,5.0
+2026-07-10,Red Velvet Slice,13,3.0
+2026-07-10,Zobo Bottle,27,1.0
+2026-07-10,Fresh Yoghurt Bottle,21,9.0
+2026-07-10,Bottled Water,47,0.0
+2026-07-10,Soft Drink,37,0.0
+2026-07-11,Agege Bread,73,16.0
+2026-07-11,Sliced Sandwich Bread,49,6.0
+2026-07-11,Coconut Bread,28,9.0
+2026-07-11,Meat Pie,78,0.0
+2026-07-11,Chicken Pie,57,17.0
+2026-07-11,Sausage Roll,75,18.0
+2026-07-11,Doughnut,48,
+2026-07-11,Egg Roll,33,5.0
+2026-07-11,Fish Roll,39,
+2026-07-11,Puff Puff Pack,39,4.0
+2026-07-11,Chin Chin Pack,39,0.0
+2026-07-11,Birthday Cake 8in,3,0.0
+2026-07-11,Cream Cake Slice,27,1.0
+2026-07-11,Cupcake,45,0.0
+2026-07-11,Banana Cake Loaf,14,0.0
+2026-07-11,Red Velvet Slice,22,0.0
+2026-07-11,Zobo Bottle,39,3.0
+2026-07-11,Fresh Yoghurt Bottle,25,7.0
+2026-07-11,Bottled Water,49,0.0
+2026-07-11,Soft Drink,49,0.0
+2026-07-12,Agege Bread,48,0.0
+2026-07-12,Sliced Sandwich Bread,33,0.0
+2026-07-12,Coconut Bread,27,15.0
+2026-07-12,Meat Pie,62,2.0
+2026-07-12,Chicken Pie,53,23.0
+2026-07-12,Sausage Roll,43,0.0
+2026-07-12,Doughnut,36,3.0
+2026-07-12,Egg Roll,23,9.0
+2026-07-12,Fish Roll,31,2.0
+2026-07-12,Puff Puff Pack,37,19.0
+2026-07-12,Chin Chin Pack,16,0.0
+2026-07-12,Birthday Cake 8in,0,0.0
+2026-07-12,Cream Cake Slice,26,
+2026-07-12,Cupcake,41,5.0
+2026-07-12,Banana Cake Loaf,10,0.0
+2026-07-12,Red Velvet Slice,19,3.0
+2026-07-12,Zobo Bottle,25,0.0
+2026-07-12,Fresh Yoghurt Bottle,21,0.0
+2026-07-12,Bottled Water,45,0.0
+2026-07-12,Soft Drink,54,0.0
+2026-07-13,Agege Bread,60,0.0
+2026-07-13,Sliced Sandwich Bread,44,
+2026-07-13,Coconut Bread,31,14.0
+2026-07-13,Meat Pie,60,0.0
+2026-07-13,Chicken Pie,71,40.0
+2026-07-13,Sausage Roll,48,
+2026-07-13,Doughnut,40,3.0
+2026-07-13,Egg Roll,29,8.0
+2026-07-13,Fish Roll,32,
+2026-07-13,Puff Puff Pack,31,0.0
+2026-07-13,Chin Chin Pack,16,0.0
+2026-07-13,Birthday Cake 8in,0,0.0
+2026-07-13,Cream Cake Slice,10,2.0
+2026-07-13,Cupcake,21,0.0
+2026-07-13,Banana Cake Loaf,6,4.0
+2026-07-13,Red Velvet Slice,8,0.0
+2026-07-13,Zobo Bottle,20,2.0
+2026-07-13,Fresh Yoghurt Bottle,18,5.0
+2026-07-13,Bottled Water,30,0.0
+2026-07-13,Soft Drink,36,0.0
+2026-07-14,Agege Bread,50,0.0
+2026-07-14,Sliced Sandwich Bread,41,1.0
+2026-07-14,Coconut Bread,30,18.0
+2026-07-14,Meat Pie,67,0.0
+2026-07-14,Chicken Pie,66,38.0
+2026-07-14,Sausage Roll,66,23.0
+2026-07-14,Doughnut,43,4.0
+2026-07-14,Egg Roll,28,
+2026-07-14,Fish Roll,25,0.0
+2026-07-14,Puff Puff Pack,37,8.0
+2026-07-14,Chin Chin Pack,12,0.0
+2026-07-14,Birthday Cake 8in,0,0.0
+2026-07-14,Cream Cake Slice,11,1.0
+2026-07-14,Cupcake,22,0.0
+2026-07-14,Banana Cake Loaf,5,0.0
+2026-07-14,Red Velvet Slice,10,6.0
+2026-07-14,Zobo Bottle,20,0.0
+2026-07-14,Fresh Yoghurt Bottle,14,0.0
+2026-07-14,Bottled Water,36,0.0
+2026-07-14,Soft Drink,30,0.0
+2026-07-15,Agege Bread,56,1.0
+2026-07-15,Sliced Sandwich Bread,48,3.0
+2026-07-15,Coconut Bread,26,10.0
+2026-07-15,Meat Pie,79,36.0
+2026-07-15,Chicken Pie,49,
+2026-07-15,Sausage Roll,55,
+2026-07-15,Doughnut,53,7.0
+2026-07-15,Egg Roll,25,
+2026-07-15,Fish Roll,34,8.0
+2026-07-15,Puff Puff Pack,35,0.0
+2026-07-15,Chin Chin Pack,19,0.0
+2026-07-15,Birthday Cake 8in,0,0.0
+2026-07-15,Cream Cake Slice,10,5.0
+2026-07-15,Cupcake,23,6.0
+2026-07-15,Banana Cake Loaf,6,3.0
+2026-07-15,Red Velvet Slice,10,0.0
+2026-07-15,Zobo Bottle,23,0.0
+2026-07-15,Fresh Yoghurt Bottle,17,1.0
+2026-07-15,Bottled Water,49,0.0
+2026-07-15,Soft Drink,32,0.0
+2026-07-16,Agege Bread,67,16.0
+2026-07-16,Sliced Sandwich Bread,46,18.0
+2026-07-16,Coconut Bread,32,
+2026-07-16,Meat Pie,76,0.0
+2026-07-16,Chicken Pie,52,15.0
+2026-07-16,Sausage Roll,45,0.0
+2026-07-16,Doughnut,51,
+2026-07-16,Egg Roll,30,1.0
+2026-07-16,Fish Roll,38,0.0
+2026-07-16,Puff Puff Pack,31,0.0
+2026-07-16,Chin Chin Pack,27,0.0
+2026-07-16,Birthday Cake 8in,2,0.0
+2026-07-16,Cream Cake Slice,13,
+2026-07-16,Cupcake,25,1.0
+2026-07-16,Banana Cake Loaf,7,0.0
+2026-07-16,Red Velvet Slice,12,
+2026-07-16,Zobo Bottle,26,0.0
+2026-07-16,Fresh Yoghurt Bottle,18,
+2026-07-16,Bottled Water,50,0.0
+2026-07-16,Soft Drink,33,0.0
+2026-07-17,Agege Bread,63,0.0
+2026-07-17,Sliced Sandwich Bread,42,5.0
+2026-07-17,Coconut Bread,36,19.0
+2026-07-17,Meat Pie,76,6.0
+2026-07-17,Chicken Pie,70,30.0
+2026-07-17,Sausage Roll,55,9.0
+2026-07-17,Doughnut,52,11.0
+2026-07-17,Egg Roll,40,9.0
+2026-07-17,Fish Roll,41,9.0
+2026-07-17,Puff Puff Pack,39,0.0
+2026-07-17,Chin Chin Pack,24,0.0
+2026-07-17,Birthday Cake 8in,2,0.0
+2026-07-17,Cream Cake Slice,18,3.0
+2026-07-17,Cupcake,32,0.0
+2026-07-17,Banana Cake Loaf,9,0.0
+2026-07-17,Red Velvet Slice,16,
+2026-07-17,Zobo Bottle,26,0.0
+2026-07-17,Fresh Yoghurt Bottle,21,6.0
+2026-07-17,Bottled Water,35,0.0
+2026-07-17,Soft Drink,40,0.0
+2026-07-18,Agege Bread,66,2.0
+2026-07-18,Sliced Sandwich Bread,44,5.0
+2026-07-18,Coconut Bread,44,17.0
+2026-07-18,Meat Pie,78,8.0
+2026-07-18,Chicken Pie,62,11.0
+2026-07-18,Sausage Roll,60,0.0
+2026-07-18,Doughnut,54,16.0
+2026-07-18,Egg Roll,34,0.0
+2026-07-18,Fish Roll,41,1.0
+2026-07-18,Puff Puff Pack,36,4.0
+2026-07-18,Chin Chin Pack,31,0.0
+2026-07-18,Birthday Cake 8in,7,0.0
+2026-07-18,Cream Cake Slice,30,3.0
+2026-07-18,Cupcake,46,
+2026-07-18,Banana Cake Loaf,13,1.0
+2026-07-18,Red Velvet Slice,26,8.0
+2026-07-18,Zobo Bottle,31,5.0
+2026-07-18,Fresh Yoghurt Bottle,20,0.0
+2026-07-18,Bottled Water,54,0.0
+2026-07-18,Soft Drink,49,0.0
+2026-07-19,Agege Bread,46,8.0
+2026-07-19,Sliced Sandwich Bread,33,0.0
+2026-07-19,Coconut Bread,28,13.0
+2026-07-19,Meat Pie,64,
+2026-07-19,Chicken Pie,45,6.0
+2026-07-19,Sausage Roll,52,
+2026-07-19,Doughnut,41,0.0
+2026-07-19,Egg Roll,28,0.0
+2026-07-19,Fish Roll,33,8.0
+2026-07-19,Puff Puff Pack,34,6.0
+2026-07-19,Chin Chin Pack,27,0.0
+2026-07-19,Birthday Cake 8in,4,0.0
+2026-07-19,Cream Cake Slice,25,0.0
+2026-07-19,Cupcake,48,8.0
+2026-07-19,Banana Cake Loaf,10,1.0
+2026-07-19,Red Velvet Slice,16,1.0
+2026-07-19,Zobo Bottle,31,0.0
+2026-07-19,Fresh Yoghurt Bottle,23,8.0
+2026-07-19,Bottled Water,51,0.0
+2026-07-19,Soft Drink,45,0.0
+2026-07-20,Agege Bread,55,10.0
+2026-07-20,Sliced Sandwich Bread,45,5.0
+2026-07-20,Coconut Bread,32,10.0
+2026-07-20,Meat Pie,68,7.0
+2026-07-20,Chicken Pie,46,7.0
+2026-07-20,Sausage Roll,53,14.0
+2026-07-20,Doughnut,49,
+2026-07-20,Egg Roll,27,2.0
+2026-07-20,Fish Roll,35,11.0
+2026-07-20,Puff Puff Pack,37,14.0
+2026-07-20,Chin Chin Pack,18,0.0
+2026-07-20,Birthday Cake 8in,1,0.0
+2026-07-20,Cream Cake Slice,11,4.0
+2026-07-20,Cupcake,21,9.0
+2026-07-20,Banana Cake Loaf,5,0.0
+2026-07-20,Red Velvet Slice,8,1.0
+2026-07-20,Zobo Bottle,20,2.0
+2026-07-20,Fresh Yoghurt Bottle,15,0.0
+2026-07-20,Bottled Water,34,0.0
+2026-07-20,Soft Drink,25,0.0
+2026-07-21,Agege Bread,57,7.0
+2026-07-21,Sliced Sandwich Bread,42,
+2026-07-21,Coconut Bread,37,21.0
+2026-07-21,Meat Pie,57,0.0
+2026-07-21,Chicken Pie,50,25.0
+2026-07-21,Sausage Roll,51,0.0
+2026-07-21,Doughnut,60,35.0
+2026-07-21,Egg Roll,30,11.0
+2026-07-21,Fish Roll,35,9.0
+2026-07-21,Puff Puff Pack,32,3.0
+2026-07-21,Chin Chin Pack,20,0.0
+2026-07-21,Birthday Cake 8in,3,0.0
+2026-07-21,Cream Cake Slice,11,1.0
+2026-07-21,Cupcake,19,5.0
+2026-07-21,Banana Cake Loaf,5,0.0
+2026-07-21,Red Velvet Slice,8,0.0
+2026-07-21,Zobo Bottle,24,0.0
+2026-07-21,Fresh Yoghurt Bottle,17,2.0
+2026-07-21,Bottled Water,33,0.0
+2026-07-21,Soft Drink,26,0.0
+2026-07-22,Agege Bread,66,10.0
+2026-07-22,Sliced Sandwich Bread,50,17.0
+2026-07-22,Coconut Bread,30,13.0
+2026-07-22,Meat Pie,56,13.0
+2026-07-22,Chicken Pie,47,6.0
+2026-07-22,Sausage Roll,63,0.0
+2026-07-22,Doughnut,46,7.0
+2026-07-22,Egg Roll,28,0.0
+2026-07-22,Fish Roll,33,9.0
+2026-07-22,Puff Puff Pack,35,1.0
+2026-07-22,Chin Chin Pack,34,0.0
+2026-07-22,Birthday Cake 8in,3,0.0
+2026-07-22,Cream Cake Slice,12,0.0
+2026-07-22,Cupcake,23,8.0
+2026-07-22,Banana Cake Loaf,7,0.0
+2026-07-22,Red Velvet Slice,9,5.0
+2026-07-22,Zobo Bottle,21,0.0
+2026-07-22,Fresh Yoghurt Bottle,16,
+2026-07-22,Bottled Water,43,0.0
+2026-07-22,Soft Drink,39,0.0
+2026-07-23,Agege Bread,60,1.0
+2026-07-23,Sliced Sandwich Bread,44,3.0
+2026-07-23,Coconut Bread,30,8.0
+2026-07-23,Meat Pie,61,0.0
+2026-07-23,Chicken Pie,51,3.0
+2026-07-23,Sausage Roll,50,1.0
+2026-07-23,Doughnut,42,0.0
+2026-07-23,Egg Roll,30,
+2026-07-23,Fish Roll,29,8.0
+2026-07-23,Puff Puff Pack,34,0.0
+2026-07-23,Chin Chin Pack,16,0.0
+2026-07-23,Birthday Cake 8in,2,0.0
+2026-07-23,Cream Cake Slice,14,0.0
+2026-07-23,Cupcake,22,
+2026-07-23,Banana Cake Loaf,7,4.0
+2026-07-23,Red Velvet Slice,11,0.0
+2026-07-23,Zobo Bottle,23,0.0
+2026-07-23,Fresh Yoghurt Bottle,17,1.0
+2026-07-23,Bottled Water,38,0.0
+2026-07-23,Soft Drink,35,0.0
+2026-07-24,Agege Bread,69,21.0
+2026-07-24,Sliced Sandwich Bread,52,7.0
+2026-07-24,Coconut Bread,36,13.0
+2026-07-24,Meat Pie,69,
+2026-07-24,Chicken Pie,68,26.0
+2026-07-24,Sausage Roll,53,7.0
+2026-07-24,Doughnut,53,9.0
+2026-07-24,Egg Roll,34,14.0
+2026-07-24,Fish Roll,32,0.0
+2026-07-24,Puff Puff Pack,36,
+2026-07-24,Chin Chin Pack,14,0.0
+2026-07-24,Birthday Cake 8in,2,0.0
+2026-07-24,Cream Cake Slice,19,3.0
+2026-07-24,Cupcake,36,14.0
+2026-07-24,Banana Cake Loaf,9,
+2026-07-24,Red Velvet Slice,15,7.0
+2026-07-24,Zobo Bottle,23,0.0
+2026-07-24,Fresh Yoghurt Bottle,24,15.0
+2026-07-24,Bottled Water,56,0.0
+2026-07-24,Soft Drink,61,0.0
+2026-07-25,Agege Bread,74,
+2026-07-25,Sliced Sandwich Bread,54,0.0
+2026-07-25,Coconut Bread,41,10.0
+2026-07-25,Meat Pie,69,0.0
+2026-07-25,Chicken Pie,61,14.0
+2026-07-25,Sausage Roll,51,0.0
+2026-07-25,Doughnut,51,0.0
+2026-07-25,Egg Roll,41,3.0
+2026-07-25,Fish Roll,42,1.0
+2026-07-25,Puff Puff Pack,36,0.0
+2026-07-25,Chin Chin Pack,33,0.0
+2026-07-25,Birthday Cake 8in,4,0.0
+2026-07-25,Cream Cake Slice,30,6.0
+2026-07-25,Cupcake,48,0.0
+2026-07-25,Banana Cake Loaf,14,2.0
+2026-07-25,Red Velvet Slice,24,0.0
+2026-07-25,Zobo Bottle,36,4.0
+2026-07-25,Fresh Yoghurt Bottle,27,0.0
+2026-07-25,Bottled Water,57,0.0
+2026-07-25,Soft Drink,43,0.0
+2026-07-26,Agege Bread,43,3.0
+2026-07-26,Sliced Sandwich Bread,34,
+2026-07-26,Coconut Bread,23,10.0
+2026-07-26,Meat Pie,51,0.0
+2026-07-26,Chicken Pie,54,14.0
+2026-07-26,Sausage Roll,54,0.0
+2026-07-26,Doughnut,41,
+2026-07-26,Egg Roll,23,5.0
+2026-07-26,Fish Roll,28,2.0
+2026-07-26,Puff Puff Pack,34,2.0
+2026-07-26,Chin Chin Pack,34,0.0
+2026-07-26,Birthday Cake 8in,2,0.0
+2026-07-26,Cream Cake Slice,25,3.0
+2026-07-26,Cupcake,47,8.0
+2026-07-26,Banana Cake Loaf,11,0.0
+2026-07-26,Red Velvet Slice,15,0.0
+2026-07-26,Zobo Bottle,28,
+2026-07-26,Fresh Yoghurt Bottle,31,
+2026-07-26,Bottled Water,66,0.0
+2026-07-26,Soft Drink,61,0.0
+2026-07-27,Agege Bread,54,0.0
+2026-07-27,Sliced Sandwich Bread,59,23.0
+2026-07-27,Coconut Bread,29,8.0
+2026-07-27,Meat Pie,62,0.0
+2026-07-27,Chicken Pie,56,16.0
+2026-07-27,Sausage Roll,53,0.0
+2026-07-27,Doughnut,48,0.0
+2026-07-27,Egg Roll,25,0.0
+2026-07-27,Fish Roll,34,0.0
+2026-07-27,Puff Puff Pack,32,
+2026-07-27,Chin Chin Pack,22,0.0
+2026-07-27,Birthday Cake 8in,2,0.0
+2026-07-27,Cream Cake Slice,11,0.0
+2026-07-27,Cupcake,20,0.0
+2026-07-27,Banana Cake Loaf,6,0.0
+2026-07-27,Red Velvet Slice,8,1.0
+2026-07-27,Zobo Bottle,20,0.0
+2026-07-27,Fresh Yoghurt Bottle,18,0.0
+2026-07-27,Bottled Water,42,0.0
+2026-07-27,Soft Drink,35,0.0
+2026-07-28,Agege Bread,51,0.0
+2026-07-28,Sliced Sandwich Bread,46,2.0
+2026-07-28,Coconut Bread,26,0.0
+2026-07-28,Meat Pie,58,0.0
+2026-07-28,Chicken Pie,65,
+2026-07-28,Sausage Roll,50,0.0
+2026-07-28,Doughnut,40,0.0
+2026-07-28,Egg Roll,31,0.0
+2026-07-28,Fish Roll,33,11.0
+2026-07-28,Puff Puff Pack,32,0.0
+2026-07-28,Chin Chin Pack,15,0.0
+2026-07-28,Birthday Cake 8in,1,0.0
+2026-07-28,Cream Cake Slice,10,0.0
+2026-07-28,Cupcake,22,1.0
+2026-07-28,Banana Cake Loaf,6,0.0
+2026-07-28,Red Velvet Slice,9,2.0
+2026-07-28,Zobo Bottle,26,0.0
+2026-07-28,Fresh Yoghurt Bottle,18,2.0
+2026-07-28,Bottled Water,43,0.0
+2026-07-28,Soft Drink,47,0.0
+2026-07-29,Agege Bread,68,22.0
+2026-07-29,Sliced Sandwich Bread,53,3.0
+2026-07-29,Coconut Bread,26,
+2026-07-29,Meat Pie,65,8.0
+2026-07-29,Chicken Pie,57,12.0
+2026-07-29,Sausage Roll,48,
+2026-07-29,Doughnut,50,15.0
+2026-07-29,Egg Roll,31,0.0
+2026-07-29,Fish Roll,36,8.0
+2026-07-29,Puff Puff Pack,34,0.0
+2026-07-29,Chin Chin Pack,23,0.0
+2026-07-29,Birthday Cake 8in,1,0.0
+2026-07-29,Cream Cake Slice,10,2.0
+2026-07-29,Cupcake,26,0.0
+2026-07-29,Banana Cake Loaf,6,1.0
+2026-07-29,Red Velvet Slice,11,2.0
+2026-07-29,Zobo Bottle,29,14.0
+2026-07-29,Fresh Yoghurt Bottle,18,3.0
+2026-07-29,Bottled Water,49,0.0
+2026-07-29,Soft Drink,38,0.0
+2026-07-30,Agege Bread,48,
+2026-07-30,Sliced Sandwich Bread,36,0.0
+2026-07-30,Coconut Bread,39,22.0
+2026-07-30,Meat Pie,70,1.0
+2026-07-30,Chicken Pie,50,9.0
+2026-07-30,Sausage Roll,46,0.0
+2026-07-30,Doughnut,47,0.0
+2026-07-30,Egg Roll,30,16.0
+2026-07-30,Fish Roll,28,
+2026-07-30,Puff Puff Pack,35,
+2026-07-30,Chin Chin Pack,31,0.0
+2026-07-30,Birthday Cake 8in,2,0.0
+2026-07-30,Cream Cake Slice,12,0.0
+2026-07-30,Cupcake,23,0.0
+2026-07-30,Banana Cake Loaf,7,2.0
+2026-07-30,Red Velvet Slice,12,0.0
+2026-07-30,Zobo Bottle,25,0.0
+2026-07-30,Fresh Yoghurt Bottle,19,0.0
+2026-07-30,Bottled Water,41,0.0
+2026-07-30,Soft Drink,35,0.0
+2026-07-31,Agege Bread,66,0.0
+2026-07-31,Sliced Sandwich Bread,43,1.0
+2026-07-31,Coconut Bread,31,14.0
+2026-07-31,Meat Pie,82,1.0
+2026-07-31,Chicken Pie,70,21.0
+2026-07-31,Sausage Roll,49,0.0
+2026-07-31,Doughnut,52,6.0
+2026-07-31,Egg Roll,34,1.0
+2026-07-31,Fish Roll,36,1.0
+2026-07-31,Puff Puff Pack,37,0.0
+2026-07-31,Chin Chin Pack,36,0.0
+2026-07-31,Birthday Cake 8in,2,0.0
+2026-07-31,Cream Cake Slice,17,2.0
+2026-07-31,Cupcake,43,4.0
+2026-07-31,Banana Cake Loaf,9,
+2026-07-31,Red Velvet Slice,17,4.0
+2026-07-31,Zobo Bottle,29,0.0
+2026-07-31,Fresh Yoghurt Bottle,16,
+2026-07-31,Bottled Water,36,0.0
+2026-07-31,Soft Drink,38,0.0
+2026-08-01,Agege Bread,85,24.0
+2026-08-01,Sliced Sandwich Bread,55,17.0
+2026-08-01,Coconut Bread,38,
+2026-08-01,Meat Pie,79,0.0
+2026-08-01,Chicken Pie,60,27.0
+2026-08-01,Sausage Roll,62,0.0
+2026-08-01,Doughnut,61,13.0
+2026-08-01,Egg Roll,31,0.0
+2026-08-01,Fish Roll,36,0.0
+2026-08-01,Puff Puff Pack,44,5.0
+2026-08-01,Chin Chin Pack,26,0.0
+2026-08-01,Birthday Cake 8in,2,0.0
+2026-08-01,Cream Cake Slice,26,0.0
+2026-08-01,Cupcake,62,9.0
+2026-08-01,Banana Cake Loaf,15,3.0
+2026-08-01,Red Velvet Slice,22,3.0
+2026-08-01,Zobo Bottle,34,15.0
+2026-08-01,Fresh Yoghurt Bottle,25,0.0
+2026-08-01,Bottled Water,40,0.0
+2026-08-01,Soft Drink,50,0.0
+2026-08-02,Agege Bread,42,0.0
+2026-08-02,Sliced Sandwich Bread,30,0.0
+2026-08-02,Coconut Bread,26,
+2026-08-02,Meat Pie,61,4.0
+2026-08-02,Chicken Pie,44,7.0
+2026-08-02,Sausage Roll,51,14.0
+2026-08-02,Doughnut,39,6.0
+2026-08-02,Egg Roll,19,
+2026-08-02,Fish Roll,33,9.0
+2026-08-02,Puff Puff Pack,26,0.0
+2026-08-02,Chin Chin Pack,28,0.0
+2026-08-02,Birthday Cake 8in,2,0.0
+2026-08-02,Cream Cake Slice,23,6.0
+2026-08-02,Cupcake,53,0.0
+2026-08-02,Banana Cake Loaf,11,0.0
+2026-08-02,Red Velvet Slice,17,2.0
+2026-08-02,Zobo Bottle,28,0.0
+2026-08-02,Fresh Yoghurt Bottle,23,0.0
+2026-08-02,Bottled Water,49,0.0
+2026-08-02,Soft Drink,49,0.0
+2026-08-03,Agege Bread,66,15.0
+2026-08-03,Sliced Sandwich Bread,49,4.0
+2026-08-03,Coconut Bread,41,5.0
+2026-08-03,Meat Pie,59,5.0
+2026-08-03,Chicken Pie,52,0.0
+2026-08-03,Sausage Roll,61,2.0
+2026-08-03,Doughnut,39,0.0
+2026-08-03,Egg Roll,26,10.0
+2026-08-03,Fish Roll,28,1.0
+2026-08-03,Puff Puff Pack,30,0.0
+2026-08-03,Chin Chin Pack,24,0.0
+2026-08-03,Birthday Cake 8in,1,0.0
+2026-08-03,Cream Cake Slice,11,0.0
+2026-08-03,Cupcake,20,3.0
+2026-08-03,Banana Cake Loaf,6,2.0
+2026-08-03,Red Velvet Slice,9,5.0
+2026-08-03,Zobo Bottle,21,3.0
+2026-08-03,Fresh Yoghurt Bottle,15,0.0
+2026-08-03,Bottled Water,38,0.0
+2026-08-03,Soft Drink,30,0.0
+2026-08-04,Agege Bread,61,29.0
+2026-08-04,Sliced Sandwich Bread,45,7.0
+2026-08-04,Coconut Bread,29,8.0
+2026-08-04,Meat Pie,60,0.0
+2026-08-04,Chicken Pie,60,39.0
+2026-08-04,Sausage Roll,45,1.0
+2026-08-04,Doughnut,43,8.0
+2026-08-04,Egg Roll,29,3.0
+2026-08-04,Fish Roll,36,0.0
+2026-08-04,Puff Puff Pack,29,1.0
+2026-08-04,Chin Chin Pack,24,0.0
+2026-08-04,Birthday Cake 8in,1,0.0
+2026-08-04,Cream Cake Slice,10,0.0
+2026-08-04,Cupcake,20,9.0
+2026-08-04,Banana Cake Loaf,4,0.0
+2026-08-04,Red Velvet Slice,8,0.0
+2026-08-04,Zobo Bottle,19,1.0
+2026-08-04,Fresh Yoghurt Bottle,16,4.0
+2026-08-04,Bottled Water,42,0.0
+2026-08-04,Soft Drink,31,0.0
+2026-08-05,Agege Bread,62,3.0
+2026-08-05,Sliced Sandwich Bread,48,12.0
+2026-08-05,Coconut Bread,29,
+2026-08-05,Meat Pie,68,13.0
+2026-08-05,Chicken Pie,52,10.0
+2026-08-05,Sausage Roll,53,5.0
+2026-08-05,Doughnut,50,16.0
+2026-08-05,Egg Roll,32,8.0
+2026-08-05,Fish Roll,31,0.0
+2026-08-05,Puff Puff Pack,36,5.0
+2026-08-05,Chin Chin Pack,20,0.0
+2026-08-05,Birthday Cake 8in,1,0.0
+2026-08-05,Cream Cake Slice,13,4.0
+2026-08-05,Cupcake,21,8.0
+2026-08-05,Banana Cake Loaf,6,2.0
+2026-08-05,Red Velvet Slice,10,
+2026-08-05,Zobo Bottle,27,
+2026-08-05,Fresh Yoghurt Bottle,18,2.0
+2026-08-05,Bottled Water,37,0.0
+2026-08-05,Soft Drink,36,0.0
+2026-08-06,Agege Bread,53,0.0
+2026-08-06,Sliced Sandwich Bread,45,10.0
+2026-08-06,Coconut Bread,27,0.0
+2026-08-06,Meat Pie,76,
+2026-08-06,Chicken Pie,65,24.0
+2026-08-06,Sausage Roll,45,0.0
+2026-08-06,Doughnut,55,0.0
+2026-08-06,Egg Roll,32,4.0
+2026-08-06,Fish Roll,34,0.0
+2026-08-06,Puff Puff Pack,36,13.0
+2026-08-06,Chin Chin Pack,32,0.0
+2026-08-06,Birthday Cake 8in,2,0.0
+2026-08-06,Cream Cake Slice,14,
+2026-08-06,Cupcake,28,6.0
+2026-08-06,Banana Cake Loaf,5,0.0
+2026-08-06,Red Velvet Slice,12,3.0
+2026-08-06,Zobo Bottle,26,3.0
+2026-08-06,Fresh Yoghurt Bottle,18,7.0
+2026-08-06,Bottled Water,49,0.0
+2026-08-06,Soft Drink,28,0.0
+2026-08-07,Agege Bread,57,9.0
+2026-08-07,Sliced Sandwich Bread,60,20.0
+2026-08-07,Coconut Bread,29,12.0
+2026-08-07,Meat Pie,78,1.0
+2026-08-07,Chicken Pie,79,37.0
+2026-08-07,Sausage Roll,64,
+2026-08-07,Doughnut,59,8.0
+2026-08-07,Egg Roll,31,0.0
+2026-08-07,Fish Roll,46,9.0
+2026-08-07,Puff Puff Pack,36,8.0
+2026-08-07,Chin Chin Pack,22,0.0
+2026-08-07,Birthday Cake 8in,1,0.0
+2026-08-07,Cream Cake Slice,17,
+2026-08-07,Cupcake,34,14.0
+2026-08-07,Banana Cake Loaf,9,
+2026-08-07,Red Velvet Slice,15,1.0
+2026-08-07,Zobo Bottle,28,0.0
+2026-08-07,Fresh Yoghurt Bottle,20,
+2026-08-07,Bottled Water,32,0.0
+2026-08-07,Soft Drink,38,0.0
+2026-08-08,Agege Bread,70,20.0
+2026-08-08,Sliced Sandwich Bread,54,11.0
+2026-08-08,Coconut Bread,39,21.0
+2026-08-08,Meat Pie,82,4.0
+2026-08-08,Chicken Pie,65,37.0
+2026-08-08,Sausage Roll,59,
+2026-08-08,Doughnut,62,3.0
+2026-08-08,Egg Roll,37,7.0
+2026-08-08,Fish Roll,33,0.0
+2026-08-08,Puff Puff Pack,45,0.0
+2026-08-08,Chin Chin Pack,23,0.0
+2026-08-08,Birthday Cake 8in,1,0.0
+2026-08-08,Cream Cake Slice,24,2.0
+2026-08-08,Cupcake,52,
+2026-08-08,Banana Cake Loaf,15,7.0
+2026-08-08,Red Velvet Slice,21,
+2026-08-08,Zobo Bottle,31,0.0
+2026-08-08,Fresh Yoghurt Bottle,29,5.0
+2026-08-08,Bottled Water,48,0.0
+2026-08-08,Soft Drink,40,0.0
+2026-08-09,Agege Bread,48,0.0
+2026-08-09,Sliced Sandwich Bread,31,0.0
+2026-08-09,Coconut Bread,25,16.0
+2026-08-09,Meat Pie,60,0.0
+2026-08-09,Chicken Pie,49,13.0
+2026-08-09,Sausage Roll,45,0.0
+2026-08-09,Doughnut,40,
+2026-08-09,Egg Roll,24,
+2026-08-09,Fish Roll,31,0.0
+2026-08-09,Puff Puff Pack,31,
+2026-08-09,Chin Chin Pack,29,0.0
+2026-08-09,Birthday Cake 8in,1,0.0
+2026-08-09,Cream Cake Slice,24,11.0
+2026-08-09,Cupcake,46,16.0
+2026-08-09,Banana Cake Loaf,10,0.0
+2026-08-09,Red Velvet Slice,20,5.0
+2026-08-09,Zobo Bottle,36,11.0
+2026-08-09,Fresh Yoghurt Bottle,24,3.0
+2026-08-09,Bottled Water,41,0.0
+2026-08-09,Soft Drink,42,0.0
+2026-08-10,Agege Bread,69,
+2026-08-10,Sliced Sandwich Bread,48,1.0
+2026-08-10,Coconut Bread,33,17.0
+2026-08-10,Meat Pie,60,0.0
+2026-08-10,Chicken Pie,46,12.0
+2026-08-10,Sausage Roll,55,12.0
+2026-08-10,Doughnut,42,
+2026-08-10,Egg Roll,30,9.0
+2026-08-10,Fish Roll,31,0.0
+2026-08-10,Puff Puff Pack,32,0.0
+2026-08-10,Chin Chin Pack,14,0.0
+2026-08-10,Birthday Cake 8in,1,0.0
+2026-08-10,Cream Cake Slice,10,5.0
+2026-08-10,Cupcake,19,8.0
+2026-08-10,Banana Cake Loaf,6,4.0
+2026-08-10,Red Velvet Slice,9,
+2026-08-10,Zobo Bottle,21,
+2026-08-10,Fresh Yoghurt Bottle,17,6.0
+2026-08-10,Bottled Water,43,0.0
+2026-08-10,Soft Drink,31,0.0
+2026-08-11,Agege Bread,65,5.0
+2026-08-11,Sliced Sandwich Bread,38,0.0
+2026-08-11,Coconut Bread,33,
+2026-08-11,Meat Pie,66,0.0
+2026-08-11,Chicken Pie,48,6.0
+2026-08-11,Sausage Roll,36,0.0
+2026-08-11,Doughnut,47,10.0
+2026-08-11,Egg Roll,30,8.0
+2026-08-11,Fish Roll,29,4.0
+2026-08-11,Puff Puff Pack,32,2.0
+2026-08-11,Chin Chin Pack,14,0.0
+2026-08-11,Birthday Cake 8in,1,0.0
+2026-08-11,Cream Cake Slice,9,0.0
+2026-08-11,Cupcake,19,0.0
+2026-08-11,Banana Cake Loaf,6,0.0
+2026-08-11,Red Velvet Slice,8,0.0
+2026-08-11,Zobo Bottle,21,10.0
+2026-08-11,Fresh Yoghurt Bottle,20,
+2026-08-11,Bottled Water,38,0.0
+2026-08-11,Soft Drink,27,0.0
+2026-08-12,Agege Bread,57,0.0
+2026-08-12,Sliced Sandwich Bread,47,0.0
+2026-08-12,Coconut Bread,27,13.0
+2026-08-12,Meat Pie,65,14.0
+2026-08-12,Chicken Pie,57,
+2026-08-12,Sausage Roll,39,0.0
+2026-08-12,Doughnut,43,14.0
+2026-08-12,Egg Roll,29,
+2026-08-12,Fish Roll,33,4.0
+2026-08-12,Puff Puff Pack,36,10.0
+2026-08-12,Chin Chin Pack,21,0.0
+2026-08-12,Birthday Cake 8in,3,0.0
+2026-08-12,Cream Cake Slice,12,0.0
+2026-08-12,Cupcake,24,0.0
+2026-08-12,Banana Cake Loaf,6,3.0
+2026-08-12,Red Velvet Slice,10,2.0
+2026-08-12,Zobo Bottle,28,0.0
+2026-08-12,Fresh Yoghurt Bottle,19,0.0
+2026-08-12,Bottled Water,46,0.0
+2026-08-12,Soft Drink,43,0.0
+2026-08-13,Agege Bread,64,10.0
+2026-08-13,Sliced Sandwich Bread,47,
+2026-08-13,Coconut Bread,34,12.0
+2026-08-13,Meat Pie,67,4.0
+2026-08-13,Chicken Pie,63,17.0
+2026-08-13,Sausage Roll,52,0.0
+2026-08-13,Doughnut,45,0.0
+2026-08-13,Egg Roll,30,0.0
+2026-08-13,Fish Roll,37,9.0
+2026-08-13,Puff Puff Pack,28,6.0
+2026-08-13,Chin Chin Pack,19,0.0
+2026-08-13,Birthday Cake 8in,3,0.0
+2026-08-13,Cream Cake Slice,14,
+2026-08-13,Cupcake,24,0.0
+2026-08-13,Banana Cake Loaf,8,5.0
+2026-08-13,Red Velvet Slice,13,3.0
+2026-08-13,Zobo Bottle,22,0.0
+2026-08-13,Fresh Yoghurt Bottle,18,4.0
+2026-08-13,Bottled Water,33,0.0
+2026-08-13,Soft Drink,27,0.0
+2026-08-14,Agege Bread,71,14.0
+2026-08-14,Sliced Sandwich Bread,48,13.0
+2026-08-14,Coconut Bread,33,11.0
+2026-08-14,Meat Pie,74,1.0
+2026-08-14,Chicken Pie,70,39.0
+2026-08-14,Sausage Roll,57,5.0
+2026-08-14,Doughnut,54,8.0
+2026-08-14,Egg Roll,31,0.0
+2026-08-14,Fish Roll,35,0.0
+2026-08-14,Puff Puff Pack,40,2.0
+2026-08-14,Chin Chin Pack,23,0.0
+2026-08-14,Birthday Cake 8in,2,0.0
+2026-08-14,Cream Cake Slice,18,
+2026-08-14,Cupcake,28,2.0
+2026-08-14,Banana Cake Loaf,9,5.0
+2026-08-14,Red Velvet Slice,17,1.0
+2026-08-14,Zobo Bottle,32,13.0
+2026-08-14,Fresh Yoghurt Bottle,22,0.0
+2026-08-14,Bottled Water,41,0.0
+2026-08-14,Soft Drink,38,0.0
+2026-08-15,Agege Bread,61,6.0
+2026-08-15,Sliced Sandwich Bread,44,
+2026-08-15,Coconut Bread,35,3.0
+2026-08-15,Meat Pie,79,1.0
+2026-08-15,Chicken Pie,64,17.0
+2026-08-15,Sausage Roll,59,0.0
+2026-08-15,Doughnut,65,18.0
+2026-08-15,Egg Roll,33,5.0
+2026-08-15,Fish Roll,35,0.0
+2026-08-15,Puff Puff Pack,39,1.0
+2026-08-15,Chin Chin Pack,27,0.0
+2026-08-15,Birthday Cake 8in,1,0.0
+2026-08-15,Cream Cake Slice,30,7.0
+2026-08-15,Cupcake,57,6.0
+2026-08-15,Banana Cake Loaf,14,4.0
+2026-08-15,Red Velvet Slice,24,
+2026-08-15,Zobo Bottle,29,0.0
+2026-08-15,Fresh Yoghurt Bottle,20,1.0
+2026-08-15,Bottled Water,58,0.0
+2026-08-15,Soft Drink,62,0.0
+2026-08-16,Agege Bread,50,12.0
+2026-08-16,Sliced Sandwich Bread,33,0.0
+2026-08-16,Coconut Bread,22,4.0
+2026-08-16,Meat Pie,71,21.0
+2026-08-16,Chicken Pie,54,16.0
+2026-08-16,Sausage Roll,46,10.0
+2026-08-16,Doughnut,35,0.0
+2026-08-16,Egg Roll,28,1.0
+2026-08-16,Fish Roll,34,11.0
+2026-08-16,Puff Puff Pack,32,0.0
+2026-08-16,Chin Chin Pack,24,0.0
+2026-08-16,Birthday Cake 8in,4,0.0
+2026-08-16,Cream Cake Slice,26,5.0
+2026-08-16,Cupcake,36,
+2026-08-16,Banana Cake Loaf,9,3.0
+2026-08-16,Red Velvet Slice,20,1.0
+2026-08-16,Zobo Bottle,28,0.0
+2026-08-16,Fresh Yoghurt Bottle,21,
+2026-08-16,Bottled Water,51,0.0
+2026-08-16,Soft Drink,48,0.0
+2026-08-17,Agege Bread,65,18.0
+2026-08-17,Sliced Sandwich Bread,46,6.0
+2026-08-17,Coconut Bread,27,10.0
+2026-08-17,Meat Pie,69,10.0
+2026-08-17,Chicken Pie,52,1.0
+2026-08-17,Sausage Roll,54,8.0
+2026-08-17,Doughnut,45,11.0
+2026-08-17,Egg Roll,28,2.0
+2026-08-17,Fish Roll,31,0.0
+2026-08-17,Puff Puff Pack,28,
+2026-08-17,Chin Chin Pack,23,0.0
+2026-08-17,Birthday Cake 8in,0,0.0
+2026-08-17,Cream Cake Slice,13,4.0
+2026-08-17,Cupcake,22,
+2026-08-17,Banana Cake Loaf,5,0.0
+2026-08-17,Red Velvet Slice,9,3.0
+2026-08-17,Zobo Bottle,20,0.0
+2026-08-17,Fresh Yoghurt Bottle,15,
+2026-08-17,Bottled Water,40,0.0
+2026-08-17,Soft Drink,32,0.0
+2026-08-18,Agege Bread,60,0.0
+2026-08-18,Sliced Sandwich Bread,39,7.0
+2026-08-18,Coconut Bread,28,9.0
+2026-08-18,Meat Pie,68,0.0
+2026-08-18,Chicken Pie,60,28.0
+2026-08-18,Sausage Roll,57,16.0
+2026-08-18,Doughnut,42,15.0
+2026-08-18,Egg Roll,29,0.0
+2026-08-18,Fish Roll,30,0.0
+2026-08-18,Puff Puff Pack,40,15.0
+2026-08-18,Chin Chin Pack,29,0.0
+2026-08-18,Birthday Cake 8in,1,0.0
+2026-08-18,Cream Cake Slice,14,8.0
+2026-08-18,Cupcake,20,3.0
+2026-08-18,Banana Cake Loaf,5,4.0
+2026-08-18,Red Velvet Slice,8,0.0
+2026-08-18,Zobo Bottle,25,5.0
+2026-08-18,Fresh Yoghurt Bottle,17,6.0
+2026-08-18,Bottled Water,39,0.0
+2026-08-18,Soft Drink,47,0.0
+2026-08-19,Agege Bread,57,0.0
+2026-08-19,Sliced Sandwich Bread,38,1.0
+2026-08-19,Coconut Bread,38,20.0
+2026-08-19,Meat Pie,64,0.0
+2026-08-19,Chicken Pie,58,32.0
+2026-08-19,Sausage Roll,51,10.0
+2026-08-19,Doughnut,43,
+2026-08-19,Egg Roll,27,3.0
+2026-08-19,Fish Roll,32,0.0
+2026-08-19,Puff Puff Pack,32,
+2026-08-19,Chin Chin Pack,19,0.0
+2026-08-19,Birthday Cake 8in,1,0.0
+2026-08-19,Cream Cake Slice,11,0.0
+2026-08-19,Cupcake,24,6.0
+2026-08-19,Banana Cake Loaf,6,0.0
+2026-08-19,Red Velvet Slice,8,0.0
+2026-08-19,Zobo Bottle,24,0.0
+2026-08-19,Fresh Yoghurt Bottle,20,0.0
+2026-08-19,Bottled Water,50,0.0
+2026-08-19,Soft Drink,34,0.0
+2026-08-20,Agege Bread,61,8.0
+2026-08-20,Sliced Sandwich Bread,53,14.0
+2026-08-20,Coconut Bread,30,6.0
+2026-08-20,Meat Pie,62,0.0
+2026-08-20,Chicken Pie,66,28.0
+2026-08-20,Sausage Roll,56,14.0
+2026-08-20,Doughnut,48,15.0
+2026-08-20,Egg Roll,36,4.0
+2026-08-20,Fish Roll,38,1.0
+2026-08-20,Puff Puff Pack,31,0.0
+2026-08-20,Chin Chin Pack,15,0.0
+2026-08-20,Birthday Cake 8in,2,0.0
+2026-08-20,Cream Cake Slice,13,3.0
+2026-08-20,Cupcake,29,11.0
+2026-08-20,Banana Cake Loaf,7,3.0
+2026-08-20,Red Velvet Slice,12,7.0
+2026-08-20,Zobo Bottle,22,3.0
+2026-08-20,Fresh Yoghurt Bottle,16,3.0
+2026-08-20,Bottled Water,44,0.0
+2026-08-20,Soft Drink,31,0.0
+2026-08-21,Agege Bread,64,11.0
+2026-08-21,Sliced Sandwich Bread,41,3.0
+2026-08-21,Coconut Bread,34,6.0
+2026-08-21,Meat Pie,69,0.0
+2026-08-21,Chicken Pie,65,26.0
+2026-08-21,Sausage Roll,60,5.0
+2026-08-21,Doughnut,55,7.0
+2026-08-21,Egg Roll,32,7.0
+2026-08-21,Fish Roll,43,4.0
+2026-08-21,Puff Puff Pack,34,0.0
+2026-08-21,Chin Chin Pack,31,0.0
+2026-08-21,Birthday Cake 8in,1,0.0
+2026-08-21,Cream Cake Slice,16,7.0
+2026-08-21,Cupcake,34,0.0
+2026-08-21,Banana Cake Loaf,7,0.0
+2026-08-21,Red Velvet Slice,12,7.0
+2026-08-21,Zobo Bottle,22,
+2026-08-21,Fresh Yoghurt Bottle,17,2.0
+2026-08-21,Bottled Water,42,0.0
+2026-08-21,Soft Drink,41,0.0
+2026-08-22,Agege Bread,60,0.0
+2026-08-22,Sliced Sandwich Bread,48,5.0
+2026-08-22,Coconut Bread,41,14.0
+2026-08-22,Meat Pie,94,
+2026-08-22,Chicken Pie,80,30.0
+2026-08-22,Sausage Roll,59,
+2026-08-22,Doughnut,62,2.0
+2026-08-22,Egg Roll,38,7.0
+2026-08-22,Fish Roll,46,0.0
+2026-08-22,Puff Puff Pack,45,5.0
+2026-08-22,Chin Chin Pack,24,0.0
+2026-08-22,Birthday Cake 8in,3,0.0
+2026-08-22,Cream Cake Slice,26,14.0
+2026-08-22,Cupcake,47,0.0
+2026-08-22,Banana Cake Loaf,14,9.0
+2026-08-22,Red Velvet Slice,21,4.0
+2026-08-22,Zobo Bottle,29,0.0
+2026-08-22,Fresh Yoghurt Bottle,25,4.0
+2026-08-22,Bottled Water,49,0.0
+2026-08-22,Soft Drink,47,0.0
+2026-08-23,Agege Bread,48,0.0
+2026-08-23,Sliced Sandwich Bread,32,7.0
+2026-08-23,Coconut Bread,25,7.0
+2026-08-23,Meat Pie,60,0.0
+2026-08-23,Chicken Pie,50,20.0
+2026-08-23,Sausage Roll,45,2.0
+2026-08-23,Doughnut,46,6.0
+2026-08-23,Egg Roll,28,10.0
+2026-08-23,Fish Roll,31,8.0
+2026-08-23,Puff Puff Pack,31,3.0
+2026-08-23,Chin Chin Pack,24,0.0
+2026-08-23,Birthday Cake 8in,5,0.0
+2026-08-23,Cream Cake Slice,24,9.0
+2026-08-23,Cupcake,49,0.0
+2026-08-23,Banana Cake Loaf,11,2.0
+2026-08-23,Red Velvet Slice,21,6.0
+2026-08-23,Zobo Bottle,23,5.0
+2026-08-23,Fresh Yoghurt Bottle,21,0.0
+2026-08-23,Bottled Water,49,0.0
+2026-08-23,Soft Drink,31,0.0
+2026-08-24,Agege Bread,65,1.0
+2026-08-24,Sliced Sandwich Bread,52,3.0
+2026-08-24,Coconut Bread,30,4.0
+2026-08-24,Meat Pie,76,28.0
+2026-08-24,Chicken Pie,51,24.0
+2026-08-24,Sausage Roll,49,0.0
+2026-08-24,Doughnut,45,
+2026-08-24,Egg Roll,26,3.0
+2026-08-24,Fish Roll,31,1.0
+2026-08-24,Puff Puff Pack,32,7.0
+2026-08-24,Chin Chin Pack,26,0.0
+2026-08-24,Birthday Cake 8in,2,0.0
+2026-08-24,Cream Cake Slice,10,3.0
+2026-08-24,Cupcake,18,0.0
+2026-08-24,Banana Cake Loaf,6,2.0
+2026-08-24,Red Velvet Slice,10,7.0
+2026-08-24,Zobo Bottle,24,13.0
+2026-08-24,Fresh Yoghurt Bottle,16,0.0
+2026-08-24,Bottled Water,47,0.0
+2026-08-24,Soft Drink,39,0.0
+2026-08-25,Agege Bread,56,9.0
+2026-08-25,Sliced Sandwich Bread,47,17.0
+2026-08-25,Coconut Bread,33,23.0
+2026-08-25,Meat Pie,63,0.0
+2026-08-25,Chicken Pie,56,7.0
+2026-08-25,Sausage Roll,52,8.0
+2026-08-25,Doughnut,40,0.0
+2026-08-25,Egg Roll,29,6.0
+2026-08-25,Fish Roll,35,6.0
+2026-08-25,Puff Puff Pack,28,0.0
+2026-08-25,Chin Chin Pack,19,0.0
+2026-08-25,Birthday Cake 8in,4,0.0
+2026-08-25,Cream Cake Slice,10,3.0
+2026-08-25,Cupcake,18,0.0
+2026-08-25,Banana Cake Loaf,6,3.0
+2026-08-25,Red Velvet Slice,8,0.0
+2026-08-25,Zobo Bottle,20,0.0
+2026-08-25,Fresh Yoghurt Bottle,18,5.0
+2026-08-25,Bottled Water,48,0.0
+2026-08-25,Soft Drink,39,0.0
+2026-08-26,Agege Bread,64,0.0
+2026-08-26,Sliced Sandwich Bread,41,0.0
+2026-08-26,Coconut Bread,27,
+2026-08-26,Meat Pie,75,0.0
+2026-08-26,Chicken Pie,66,28.0
+2026-08-26,Sausage Roll,51,0.0
+2026-08-26,Doughnut,43,
+2026-08-26,Egg Roll,26,0.0
+2026-08-26,Fish Roll,32,0.0
+2026-08-26,Puff Puff Pack,33,0.0
+2026-08-26,Chin Chin Pack,26,0.0
+2026-08-26,Birthday Cake 8in,1,0.0
+2026-08-26,Cream Cake Slice,12,2.0
+2026-08-26,Cupcake,20,0.0
+2026-08-26,Banana Cake Loaf,6,2.0
+2026-08-26,Red Velvet Slice,10,1.0
+2026-08-26,Zobo Bottle,25,0.0
+2026-08-26,Fresh Yoghurt Bottle,18,0.0
+2026-08-26,Bottled Water,57,0.0
+2026-08-26,Soft Drink,53,0.0
+2026-08-27,Agege Bread,66,9.0
+2026-08-27,Sliced Sandwich Bread,43,3.0
+2026-08-27,Coconut Bread,32,10.0
+2026-08-27,Meat Pie,66,6.0
+2026-08-27,Chicken Pie,62,28.0
+2026-08-27,Sausage Roll,45,0.0
+2026-08-27,Doughnut,53,9.0
+2026-08-27,Egg Roll,28,0.0
+2026-08-27,Fish Roll,30,4.0
+2026-08-27,Puff Puff Pack,37,2.0
+2026-08-27,Chin Chin Pack,22,0.0
+2026-08-27,Birthday Cake 8in,1,0.0
+2026-08-27,Cream Cake Slice,14,0.0
+2026-08-27,Cupcake,29,
+2026-08-27,Banana Cake Loaf,6,0.0
+2026-08-27,Red Velvet Slice,12,0.0
+2026-08-27,Zobo Bottle,29,0.0
+2026-08-27,Fresh Yoghurt Bottle,17,0.0
+2026-08-27,Bottled Water,51,0.0
+2026-08-27,Soft Drink,47,0.0
+2026-08-28,Agege Bread,63,16.0
+2026-08-28,Sliced Sandwich Bread,42,0.0
+2026-08-28,Coconut Bread,40,17.0
+2026-08-28,Meat Pie,81,0.0
+2026-08-28,Chicken Pie,59,15.0
+2026-08-28,Sausage Roll,59,0.0
+2026-08-28,Doughnut,56,7.0
+2026-08-28,Egg Roll,34,0.0
+2026-08-28,Fish Roll,46,14.0
+2026-08-28,Puff Puff Pack,42,0.0
+2026-08-28,Chin Chin Pack,31,0.0
+2026-08-28,Birthday Cake 8in,1,0.0
+2026-08-28,Cream Cake Slice,18,0.0
+2026-08-28,Cupcake,35,1.0
+2026-08-28,Banana Cake Loaf,10,1.0
+2026-08-28,Red Velvet Slice,16,0.0
+2026-08-28,Zobo Bottle,21,0.0
+2026-08-28,Fresh Yoghurt Bottle,20,
+2026-08-28,Bottled Water,56,0.0
+2026-08-28,Soft Drink,72,0.0
+2026-08-29,Agege Bread,76,
+2026-08-29,Sliced Sandwich Bread,52,0.0
+2026-08-29,Coconut Bread,35,15.0
+2026-08-29,Meat Pie,81,0.0
+2026-08-29,Chicken Pie,67,3.0
+2026-08-29,Sausage Roll,67,6.0
+2026-08-29,Doughnut,61,0.0
+2026-08-29,Egg Roll,34,0.0
+2026-08-29,Fish Roll,35,0.0
+2026-08-29,Puff Puff Pack,35,0.0
+2026-08-29,Chin Chin Pack,45,0.0
+2026-08-29,Birthday Cake 8in,4,0.0
+2026-08-29,Cream Cake Slice,31,0.0
+2026-08-29,Cupcake,53,0.0
+2026-08-29,Banana Cake Loaf,14,0.0
+2026-08-29,Red Velvet Slice,20,2.0
+2026-08-29,Zobo Bottle,31,
+2026-08-29,Fresh Yoghurt Bottle,23,
+2026-08-29,Bottled Water,48,0.0
+2026-08-29,Soft Drink,42,0.0
+2026-08-30,Agege Bread,49,0.0
+2026-08-30,Sliced Sandwich Bread,30,0.0
+2026-08-30,Coconut Bread,26,
+2026-08-30,Meat Pie,64,0.0
+2026-08-30,Chicken Pie,48,5.0
+2026-08-30,Sausage Roll,42,0.0
+2026-08-30,Doughnut,44,0.0
+2026-08-30,Egg Roll,27,2.0
+2026-08-30,Fish Roll,27,0.0
+2026-08-30,Puff Puff Pack,35,10.0
+2026-08-30,Chin Chin Pack,21,0.0
+2026-08-30,Birthday Cake 8in,1,0.0
+2026-08-30,Cream Cake Slice,23,
+2026-08-30,Cupcake,42,0.0
+2026-08-30,Banana Cake Loaf,12,
+2026-08-30,Red Velvet Slice,23,8.0
+2026-08-30,Zobo Bottle,29,0.0
+2026-08-30,Fresh Yoghurt Bottle,21,0.0
+2026-08-30,Bottled Water,63,0.0
+2026-08-30,Soft Drink,50,0.0
+2026-08-31,Agege Bread,67,13.0
+2026-08-31,Sliced Sandwich Bread,53,
+2026-08-31,Coconut Bread,32,7.0
+2026-08-31,Meat Pie,70,0.0
+2026-08-31,Chicken Pie,56,23.0
+2026-08-31,Sausage Roll,45,0.0
+2026-08-31,Doughnut,41,0.0
+2026-08-31,Egg Roll,25,1.0
+2026-08-31,Fish Roll,37,5.0
+2026-08-31,Puff Puff Pack,28,0.0
+2026-08-31,Chin Chin Pack,16,0.0
+2026-08-31,Birthday Cake 8in,3,0.0
+2026-08-31,Cream Cake Slice,12,6.0
+2026-08-31,Cupcake,19,1.0
+2026-08-31,Banana Cake Loaf,5,2.0
+2026-08-31,Red Velvet Slice,8,
+2026-08-31,Zobo Bottle,22,0.0
+2026-08-31,Fresh Yoghurt Bottle,17,3.0
+2026-08-31,Bottled Water,34,0.0
+2026-08-31,Soft Drink,30,0.0

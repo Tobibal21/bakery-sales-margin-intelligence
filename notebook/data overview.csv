@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_values,duplicate_rows,date_start,date_end
+transactions,70720,8,5705,620,2026-03-01 07:02:20,2026-08-31 20:47:49
+products,20,5,0,0,,
+production_log,3680,4,343,0,2026-03-01 00:00:00,2026-08-31 00:00:00
+cost_changes,7,3,0,0,2026-06-01 00:00:00,2026-07-01 00:00:00
+price_changes,2,3,0,0,2026-07-01 00:00:00,2026-07-15 00:00:00
+holidays,6,2,0,0,2026-03-20 00:00:00,2026-06-12 00:00:00

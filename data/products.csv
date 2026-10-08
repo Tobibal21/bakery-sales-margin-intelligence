@@ -1,0 +1,21 @@
+product_name,category,list_price_start,unit_cost_start,is_perishable
+Agege Bread,Bread,1200,780,True
+Sliced Sandwich Bread,Bread,1800,1150,True
+Coconut Bread,Bread,1500,950,True
+Meat Pie,Pastry,1000,620,True
+Chicken Pie,Pastry,1200,800,True
+Sausage Roll,Pastry,700,420,True
+Doughnut,Pastry,500,280,True
+Egg Roll,Pastry,800,450,True
+Fish Roll,Pastry,600,350,True
+Puff Puff Pack,Pastry,500,190,True
+Chin Chin Pack,Snack,1000,450,False
+Birthday Cake 8in,Cake,25000,16500,False
+Cream Cake Slice,Cake,1800,1950,True
+Cupcake,Cake,800,410,True
+Banana Cake Loaf,Cake,3500,2100,True
+Red Velvet Slice,Cake,2000,1250,True
+Zobo Bottle,Drink,700,380,True
+Fresh Yoghurt Bottle,Drink,1500,1250,True
+Bottled Water,Drink,300,200,False
+Soft Drink,Drink,500,400,False
